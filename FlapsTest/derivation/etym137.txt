@@ -1,0 +1,31 @@
+Derivation file for run 'FlapsTest'; etymon number :137:
+#illˈoːrum# >>> *#lœʁ# ( GOLD : #lœʁ#) :
+i l l ˈoː r u m 
+*#ɪllˈoːrʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɪllˈorʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#ellˈorom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ellˈoro# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ellˈoro#
+*#ellˈoːro# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#ellˈoːro#
+Middle Gallo-Roman stage form : *#ellˈoːro#
+*#əllˈoːro# | 261 : [-stres,-lo,+syl] > ə / __ [-syl]
+*#əllˈoːrə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#ə̯llˈoːrə̯# | 269 : ə > ə̯ 
+*#llˈoːr# | 294 : ə̯ > ∅ 
+*#lˈoːr# | 331 : {d̪ d̪;d̪ d̪ʲ;t̪ t̪;t̪ t̪ʲ;t̪ t͡s;t̪ t͡sʲ;d̪ d͡ʒ;t̪ t͡ʃ;ɟ ɟ;c c;ɡ ɡ;k k;s s;s sʲ;m m;m mʲ;l l;ɫ l;l lʲ;ɫ lʲ;r r;r rʲ;b b;b bʲ;p p;p pʲ} > {d̪;dʲ;t̪;t̪ʲ;t͡s;t͡sʲ;d͡ʒ;t͡ʃ;ɟ;c;ɡ;k;s;sʲ;m;mʲ;l;l;lʲ;lʲ;r;rʲ;b;bʲ;p;pʲ} / # __ 
+*#lˈowr# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+Later Gallo-Roman stage form : *#lˈowr#
+Old French I stage form : *#lˈowr#
+*#lˈewr# | 551 : ˈo > ˈe / __ w
+*#lˈøwr# | 595 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+*#lˈør# | 603 : w > ∅ / [+round,+front,-hi,+syl] __ 
+Old French II stage form : *#lˈør#
+Middle French stage form : *#lˈør#
+*#lˈœr# | 694 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
+*#lˈœɹ# | 711 : r > ɹ / [-cons] __ #
+*#lˈœr# | 733 : ɹ > r 
+*#lˈœʀ# | 735 : r > ʀ 
+*#lœʀ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#lœʁ# | 744 : ʀ > ʁ 
+Final form : *#lœʁ#

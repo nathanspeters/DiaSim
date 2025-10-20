@@ -1,0 +1,42 @@
+Derivation file for run 'FlapsTest'; etymon number :1362:
+#wˈit̪rum# >>> *#vwaʁ# ( GOLD : #vɛʁ#) :
+w ˈi t̪ r u m 
+*#ɣʷˈit̪rum# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˈɪt̪rʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βʷˈɪt̪rʊm# | 50 : ɣʷ > βʷ 
+*#βʷˈet̪rom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#βʷˈet̪ro# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#βʷˈet̪ro#
+*#βʷˈeːt̪ro# | 108 : [+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
+Early Gallo-Roman stage form : *#βʷˈeːt̪ro#
+*#βʷˈet̪ro# | 148 : [+syl] > [-long,-splng] / __ [-syl] [+cons]
+*#βʷˈeːt̪ro# | 151 : [+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
+*#βˈeːt̪ro# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+*#βˈet̪ro# | 215 : [+syl] > [-long,-splng] / __ [-syl] [+cons]
+*#βˈeːt̪ro# | 219 : [+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
+Middle Gallo-Roman stage form : *#βˈeːt̪ro#
+*#βˈeːt̪rə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#βˈeːt̪rə̯# | 269 : ə > ə̯ 
+*#βˈeːt̪rə# | 276 : ə̯ > ə / [+stres] ( [-syl] )* [+distr] [-distr,+son] __ 
+*#βˈeːd̪rə# | 347 : [-voi,-delrel,+ant] > [+voi] / [-cons] __ [+cor,+son,-nas]
+*#βˈeːðrə# | 372 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [+son,-nas,-lat]
+*#βˈejðrə# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#vˈejðrə# | 437 : β > v 
+Later Gallo-Roman stage form : *#vˈejðrə#
+*#vˈojðrə# | 515 : ˈe > ˈo / [+lab,+voi] __ j
+Old French I stage form : *#vˈojðrə#
+*#vˈujðrə# | 562 : [+round,+tense,+back] > [+hi] 
+*#vˈʌjðrə# | 588 : ˈu > ˈʌ / __ j [+ant,+voi,+distr] ( r ) ə
+*#vˈujðrə# | 589 : ˈʌ > ˈu / [+lab] ( r )* __ 
+*#vˈujrə# | 594 : {θ;ð} > {∅;∅} 
+*#vˈuɛ̯rə# | 613 : j > ɛ̯ / [+syl,+back,+round] __ 
+*#vwˈɛrə# | 614 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+Old French II stage form : *#vwˈɛrə#
+Middle French stage form : *#vwˈɛrə#
+*#vwˈɛrə̯# | 702 : ə > ə̯ / __ #
+*#vwˈɛr# | 720 : ə̯ > ∅ 
+*#vwˈɛʀ# | 735 : r > ʀ 
+*#vwɛʀ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#vwaʀ# | 743 : ɛ > a / w __ 
+*#vwaʁ# | 744 : ʀ > ʁ 
+Final form : *#vwaʁ#

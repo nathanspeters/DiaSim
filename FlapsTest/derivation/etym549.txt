@@ -1,0 +1,18 @@
+Derivation file for run 'FlapsTest'; etymon number :549:
+#kwˈiː# >>> *#ki# ( GOLD : #ki#) :
+k w ˈiː 
+*#kɣʷˈiː# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#kwˈiː# | 7 : ɣʷ > w / [+back,+hi,+cons] __ 
+*#kwˈi# | 57 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#kwˈi#
+*#kwˈiː# | 105 : [+prim] > [+long] / __ #
+Early Gallo-Roman stage form : *#kwˈiː#
+Middle Gallo-Roman stage form : *#kwˈiː#
+*#kˈiː# | 378 : w > ∅ / k __ [+front,-lo]
+Later Gallo-Roman stage form : *#kˈiː#
+*#kˈi# | 452 : [+syl] > [-long,-splng] 
+Old French I stage form : *#kˈi#
+Old French II stage form : *#kˈi#
+Middle French stage form : *#kˈi#
+*#ki# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ki#

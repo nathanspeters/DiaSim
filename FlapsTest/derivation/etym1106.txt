@@ -1,0 +1,26 @@
+Derivation file for run 'FlapsTest'; etymon number :1106:
+#sˈerwɑm# >>> *#sɛʁv# ( GOLD : #sɛʁv#) :
+s ˈe r w ɑ m 
+*#sˈerɣʷɑm# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#sˈɛrɣʷɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɛrβʷɑm# | 50 : ɣʷ > βʷ 
+*#sˈɛrβʷɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˈɛrβʷɑ#
+Early Gallo-Roman stage form : *#sˈɛrβʷɑ#
+*#sˈɛrβɑ# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+*#sˈɛrβa# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#sˈɛrβa#
+*#sˈɛrva# | 437 : β > v 
+Later Gallo-Roman stage form : *#sˈɛrva#
+*#sˈɛrvə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#sˈɛrvə#
+Old French II stage form : *#sˈɛrvə#
+Middle French stage form : *#sˈɛrvə#
+*#sˈɛrvə̯# | 702 : ə > ə̯ / __ #
+*#sˈɛɹvə̯# | 712 : r > ɹ / [-cons] __ [+cons]
+*#sˈɛɹv# | 720 : ə̯ > ∅ 
+*#sˈɛrv# | 733 : ɹ > r 
+*#sˈɛʀv# | 735 : r > ʀ 
+*#sɛʀv# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#sɛʁv# | 744 : ʀ > ʁ 
+Final form : *#sɛʁv#

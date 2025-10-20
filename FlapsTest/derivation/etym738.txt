@@ -1,0 +1,27 @@
+Derivation file for run 'FlapsTest'; etymon number :738:
+#mˈuskɑm# >>> *#muʃ# ( GOLD : #muʃ#) :
+m ˈu s k ɑ m 
+*#mˈʊskɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈoskɑm# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˈoskɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#mˈoskɑ#
+Early Gallo-Roman stage form : *#mˈoskɑ#
+*#mˈoska# | 193 : [+lo] > [+front,-back] 
+*#mˈoskʲa# | 228 : [+hi,+back,+cons] > [+front] / __ [+front,+syl]
+Middle Gallo-Roman stage form : *#mˈoskʲa#
+*#mˈosca# | 240 : [+back,+front] > [-back] 
+*#mˈost͡ʃa# | 249 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
+Later Gallo-Roman stage form : *#mˈost͡ʃa#
+*#mˈost͡ʃə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#mˈost͡ʃə#
+*#mˈust͡ʃə# | 562 : [+round,+tense,+back] > [+hi] 
+*#mˈuxt͡ʃə# | 587 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
+*#mˈuxʃə# | 627 : [+delrel] > [+cont,0delrel] 
+*#mˈuːʃə# | 633 : [+syl] x > [+long] ∅/ __ [+cons]
+Old French II stage form : *#mˈuːʃə#
+Middle French stage form : *#mˈuːʃə#
+*#mˈuːʃə̯# | 702 : ə > ə̯ / __ #
+*#mˈuːʃ# | 720 : ə̯ > ∅ 
+*#muːʃ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#muʃ# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#muʃ#

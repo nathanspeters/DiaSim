@@ -1,0 +1,38 @@
+Derivation file for run 'FlapsTest'; etymon number :58:
+#bˌellit̪ˈɑːt̪em# >>> *#bot̪e# ( GOLD : #bot̪e#) :
+b ˌe l l i t̪ ˈɑː t̪ e m 
+*#bˌɛllɪt̪ˈɑːt̪ɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌɛllɪt̪ˈɑt̪ɛm# | 57 : [+syl,+long] > [-long,-splng] 
+*#bˌɛllet̪ˈɑt̪ɛm# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#bˌɛllet̪ˈɑt̪ɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#bˌɛllet̪ˈɑt̪ɛ#
+*#bˌɛllet̪ˈɑːt̪ɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#bˌɛllet̪ˈɑːt̪ɛ#
+*#bˌɛllt̪ˈɑːt̪ɛ# | 188 : [+front,+tense,-lo,-stres] > ∅ / __ [+cor] [+lo,+long]
+*#bˌɛllt̪ˈaːt̪ɛ# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#bˌɛllt̪ˈaːt̪ɛ#
+*#bˌɛllt̪ˈaːt̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#bˌɛllt̪ˈaːt̪ə̯# | 269 : ə > ə̯ 
+*#bˌɛllt̪ˈaːt̪# | 294 : ə̯ > ∅ 
+*#bˌɛllt̪ˈae̯t̪# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#bˌɨllt̪ˈae̯t̪# | 417 : {ˌɛ;ˌɔ} > {ˌɨ;ˌɯ} / __ [+lat] [+cons]
+*#bˌɛllt̪ˈae̯t̪# | 426 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
+Later Gallo-Roman stage form : *#bˌɛllt̪ˈae̯t̪#
+*#bˌɛllt̪ˈae̯θ# | 440 : [-delrel] > [+cont,0delrel] / [-cons] __ #
+*#bˌɛllt̪ˈeːθ# | 453 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
+*#bˌɛlt̪ˈeːθ# | 476 : [-syl] > ∅ / [+cons] __ [-son]
+*#bˌɛɫt̪ˈeːθ# | 504 : [+lat] > ɫ / __ [+cons]
+Old French I stage form : *#bˌɛɫt̪ˈeːθ#
+*#bˌɛɫt̪ˈeθ# | 546 : [+syl] > [-long,-splng] 
+*#bˌɛwt̪ˈeθ# | 574 : [+lat,+back] > w 
+*#bˌɛa̯wt̪ˈeθ# | 580 : ∅ > a̯ / [-hi,-lo,+front,-tense,+stres] __ w
+*#be̯ˌawt̪ˈeθ# | 590 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+*#be̯ˌawt̪ˈe# | 594 : {θ;ð} > {∅;∅} 
+Old French II stage form : *#be̯ˌawt̪ˈe#
+*#be̯ˌoːt̪ˈe# | 654 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+*#bə̯ˌoːt̪ˈe# | 655 : e̯ > ə̯ / __ [+round,+back,-hi]
+Middle French stage form : *#bə̯ˌoːt̪ˈe#
+*#bˌoːt̪ˈe# | 697 : ə̯ > ∅ / __ [-cons]
+*#boːt̪e# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#bot̪e# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#bot̪e#

@@ -1,0 +1,30 @@
+Derivation file for run 'FlapsTest'; etymon number :1325:
+#wˌert̪ɑbˈellɑm# >>> *#vɛʁt̪əvɛl# ( GOLD : #vɛʁt̪əvɛl#) :
+w ˌe r t̪ ɑ b ˈe l l ɑ m 
+*#ɣʷˌert̪ɑbˈellɑm# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˌɛrt̪ɑbˈɛllɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βʷˌɛrt̪ɑbˈɛllɑm# | 50 : ɣʷ > βʷ 
+*#βʷˌɛrt̪ɑβˈɛllɑm# | 51 : b > β / [+syl] __ [+son]
+*#βʷˌɛrt̪ɑβˈɛllɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#βʷˌɛrt̪ɑβˈɛllɑ#
+Early Gallo-Roman stage form : *#βʷˌɛrt̪ɑβˈɛllɑ#
+*#βˌɛrt̪ɑβˈɛllɑ# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+*#βˌɛrt̪aβˈɛlla# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#βˌɛrt̪aβˈɛlla#
+*#βˌɨrt̪aβˈɛlla# | 420 : ˌɛ > ˌɨ / __ [+cor,-nas,+cont] [+cons,-nas]
+*#βˌɛrt̪aβˈɛlla# | 426 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
+*#vˌɛrt̪avˈɛlla# | 437 : β > v 
+Later Gallo-Roman stage form : *#vˌɛrt̪avˈɛlla#
+*#vˌɛrt̪əvˈɛllə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#vˌɛrt̪əvˈɛlə# | 496 : {p p;p pʲ;b b;b bʲ;f f;f fʲ;m m;m mʲ;t̪ t̪;t̪ t̪ʲ;t̪ t͡s;t̪ t͡sʲ;t̪ t͡ʃ;d̪ d̪;d̪ d̪ʲ;d̪ d͡ʒ;n̪ n̪;n̪ n̪ʲ;s s;s sʲ;z z;z zʲ;l l;l lʲ;k k;ɡ ɡ} > {p;pʲ;b;bʲ;f;fʲ;m;mʲ;t̪;t̪ʲ;t͡s;t͡sʲ;t͡ʃ;d̪;dʲ;d͡ʒ;n̪;n̪ʲ;s;sʲ;z;zʲ;l;lʲ;k;ɡ} 
+Old French I stage form : *#vˌɛrt̪əvˈɛlə#
+Old French II stage form : *#vˌɛrt̪əvˈɛlə#
+Middle French stage form : *#vˌɛrt̪əvˈɛlə#
+*#vˌɛrt̪əvˈɛlə̯# | 702 : ə > ə̯ / __ #
+*#vˌɛɹt̪əvˈɛlə̯# | 712 : r > ɹ / [-cons] __ [+cons]
+*#vˌɛɹt̪əvˈɛl# | 720 : ə̯ > ∅ 
+*#vˌɛrt̪əvˈɛl# | 733 : ɹ > r 
+*#vˌɛʀt̪əvˈɛl# | 735 : r > ʀ 
+*#vɛʀt̪əvɛl# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#vɛʁt̪əvɛl# | 744 : ʀ > ʁ 
+Final form : *#vɛʁt̪əvɛl#

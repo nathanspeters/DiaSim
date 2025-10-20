@@ -1,0 +1,27 @@
+Derivation file for run 'FlapsTest'; etymon number :766:
+#n̪ˈoːd̪um# >>> *#n̪ø# ( GOLD : #n̪ø#) :
+n̪ ˈoː d̪ u m 
+*#n̪ˈoːd̪ʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#n̪ˈod̪ʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#n̪ˈod̪om# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#n̪ˈod̪o# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#n̪ˈod̪o#
+*#n̪ˈoðo# | 100 : [-delrel,+voi] > [+cont,0delrel] / [+syl] __ [+son,-nas]
+*#n̪ˈoːðo# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#n̪ˈoːðo#
+Middle Gallo-Roman stage form : *#n̪ˈoːðo#
+*#n̪ˈoːðə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#n̪ˈoːðə̯# | 269 : ə > ə̯ 
+*#n̪ˈoːð# | 294 : ə̯ > ∅ 
+*#n̪ˈowð# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+Later Gallo-Roman stage form : *#n̪ˈowð#
+*#n̪ˈowθ# | 448 : [-son] > [-voi] / __ #
+Old French I stage form : *#n̪ˈowθ#
+*#n̪ˈewθ# | 551 : ˈo > ˈe / __ w
+*#n̪ˈew# | 594 : {θ;ð} > {∅;∅} 
+*#n̪ˈøw# | 595 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+*#n̪ˈø# | 603 : w > ∅ / [+round,+front,-hi,+syl] __ 
+Old French II stage form : *#n̪ˈø#
+Middle French stage form : *#n̪ˈø#
+*#n̪ø# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#n̪ø#

@@ -1,0 +1,31 @@
+Derivation file for run 'FlapsTest'; etymon number :87:
+#pˈɑleɑm# >>> *#pɑj# ( GOLD : #pɑj#) :
+p ˈɑ l e ɑ m 
+*#pˈɑlɛɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˈɑljɑm# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#pˈɑlʝɑm# | 29 : j > ʝ / __ [+syl]
+*#pˈɑlʝɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˈɑlʝɑ#
+*#pˈɑʎɑ# | 91 : l ʝ > ʎ 
+*#pˈɑːʎɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#pˈɑːʎɑ#
+*#pˈaːʎa# | 193 : [+lo] > [+front,-back] 
+*#pˈaʎa# | 222 : [-hi,+tense,+syl] > [-long,-splng] / __ ʎ
+Middle Gallo-Roman stage form : *#pˈaʎa#
+*#pˈaːʎa# | 354 : [+prim] > [+long] / __ [+cons] [+syl]
+*#pˈaʎa# | 358 : [-hi,+tense,+syl] > [-long,-splng] / __ ʎ
+*#pˈaːʎa# | 398 : [+prim] > [+long] / __ [+cons] [+syl]
+*#pˈaʎa# | 402 : [-hi,+tense,+syl] > [-long,-splng] / __ ʎ
+Later Gallo-Roman stage form : *#pˈaʎa#
+*#pˈaʎə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#pˈaʎə#
+Old French II stage form : *#pˈaʎə#
+Middle French stage form : *#pˈaʎə#
+*#pˈaːʎə# | 698 : [+lo] > [+long] / __ ʎ ə #
+*#pˈaːʎə̯# | 702 : ə > ə̯ / __ #
+*#pˈɑːʎə̯# | 703 : [+lo,+long,+syl] > [+back,-front] 
+*#pˈɑːʎ# | 720 : ə̯ > ∅ 
+*#pɑːʎ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#pɑʎ# | 738 : [+syl,+long] > [-long,-splng] 
+*#pɑj# | 745 : ʎ > j 
+Final form : *#pɑj#

@@ -1,0 +1,33 @@
+Derivation file for run 'FlapsTest'; etymon number :429:
+#kˈɑrpin̪um# >>> *#ʃaʁm# ( GOLD : #ʃaʁm#) :
+k ˈɑ r p i n̪ u m 
+*#kˈɑrpɪn̪ʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɑrpen̪om# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈɑrpen̪o# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈɑrpen̪o#
+*#kˈɑrpn̪o# | 94 : e > ∅ / [-nas] [-syl] __ [+distr] [-prim]
+*#kˈɑrpmo# | 95 : n̪ > m / p __ 
+Early Gallo-Roman stage form : *#kˈɑrpmo#
+*#kˈarpmo# | 193 : [+lo] > [+front,-back] 
+*#kʲˈarpmo# | 228 : [+hi,+back,+cons] > [+front] / __ [+front,+syl]
+Middle Gallo-Roman stage form : *#kʲˈarpmo#
+*#cˈarpmo# | 240 : [+back,+front] > [-back] 
+*#t͡ʃˈarpmo# | 249 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
+*#t͡ʃˈarpmə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#t͡ʃˈarmə# | 265 : [+cons,+lab] > ∅ / [+cons] __ [+nas,+cons]
+*#t͡ʃˈarmə̯# | 269 : ə > ə̯ 
+*#t͡ʃˈarm# | 294 : ə̯ > ∅ 
+*#t͡ʃˈarmə# | 309 : ∅ > ə / [+cons,-nas] [+cons,+nas] __ #
+Later Gallo-Roman stage form : *#t͡ʃˈarmə#
+Old French I stage form : *#t͡ʃˈarmə#
+*#ʃˈarmə# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#ʃˈarmə#
+Middle French stage form : *#ʃˈarmə#
+*#ʃˈarmə̯# | 702 : ə > ə̯ / __ #
+*#ʃˈaɹmə̯# | 712 : r > ɹ / [-cons] __ [+cons]
+*#ʃˈaɹm# | 720 : ə̯ > ∅ 
+*#ʃˈarm# | 733 : ɹ > r 
+*#ʃˈaʀm# | 735 : r > ʀ 
+*#ʃaʀm# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʃaʁm# | 744 : ʀ > ʁ 
+Final form : *#ʃaʁm#

@@ -1,0 +1,25 @@
+Derivation file for run 'FlapsTest'; etymon number :141:
+#lˈupɑm# >>> *#luv# ( GOLD : #luv#) :
+l ˈu p ɑ m 
+*#lˈʊpɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈopɑm# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#lˈopɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#lˈopɑ#
+*#lˈoːpɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#lˈoːpɑ#
+*#lˈoːpa# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#lˈoːpa#
+*#lˈoːba# | 346 : [-voi] > [+voi] / [-cons] __ [-cons]
+*#lˈoːβa# | 371 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [-cons]
+*#lˈowβa# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#lˈowva# | 437 : β > v 
+Later Gallo-Roman stage form : *#lˈowva#
+*#lˈowvə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#lˈuvə# | 525 : [+tense,+syl,+round,-hi,-lo] w > [+hi] ∅/ [-lab,+cons] __ [+lab,-syl]
+Old French I stage form : *#lˈuvə#
+Old French II stage form : *#lˈuvə#
+Middle French stage form : *#lˈuvə#
+*#lˈuvə̯# | 702 : ə > ə̯ / __ #
+*#lˈuv# | 720 : ə̯ > ∅ 
+*#luv# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#luv#

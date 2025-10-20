@@ -1,0 +1,39 @@
+Derivation file for run 'FlapsTest'; etymon number :448:
+#kˌɑweˈolɑ# >>> *#ʃwajœl# ( GOLD : #ʒol#) :
+k ˌɑ w e ˈo l ɑ 
+*#kˌɑɣʷeˈolɑ# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#kˌɑɣʷɛˈɔlɑ# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˌɑɣʷjˈɔlɑ# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˌɑɣʷʝˈɔlɑ# | 29 : j > ʝ / __ [+syl]
+*#kˌɑwʝˈɔlɑ# | 48 : ɣʷ > w / __ [+cons]
+Late Latin stage form : *#kˌɑwʝˈɔlɑ#
+*#kˌɑwʝˈɔːlɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#kˌɑwʝˈɔːlɑ#
+*#kˌɑwʝˈuo̯lɑ# | 163 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+*#kˌawʝˈuo̯la# | 193 : [+lo] > [+front,-back] 
+*#kˌawʝˈʉo̯la# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+*#kʲˌawʝˈʉo̯la# | 228 : [+hi,+back,+cons] > [+front] / __ [+front,+syl]
+*#kʲˌɔwʝˈʉo̯la# | 231 : {a;ˌa;ˈa} > {ɔ;ˌɔ;ˈɔ} / __ w
+Middle Gallo-Roman stage form : *#kʲˌɔwʝˈʉo̯la#
+*#cˌɔwʝˈʉo̯la# | 240 : [+back,+front] > [-back] 
+*#t͡ʃˌɔwʝˈʉo̯la# | 249 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
+*#t͡ʃˌɔwjˈʉo̯la# | 377 : ʝ > j 
+*#t͡ʃˌɯwjˈʉo̯la# | 424 : ˌɔ > ˌɯ / __ w
+*#t͡ʃˌɔwjˈʉo̯la# | 426 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
+*#t͡ʃˌɔjˈʉo̯la# | 427 : w > ∅ / [+round,-tense] __ [-syl,-cor]
+Later Gallo-Roman stage form : *#t͡ʃˌɔjˈʉo̯la#
+*#t͡ʃˌɔjˈʉo̯lə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#t͡ʃˌɔjˈyo̯lə# | 506 : [+hi,+round,-back] > [+front] 
+*#t͡ʃˌɔjˈye̯lə# | 520 : o̯ > e̯ 
+Old French I stage form : *#t͡ʃˌɔjˈye̯lə#
+*#t͡ʃˌɔjˈølə# | 576 : [+hi,+round,+tense,+prim] e̯ > ˈø
+*#t͡ʃwˌɛjˈølə# | 612 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
+*#ʃwˌɛjˈølə# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#ʃwˌɛjˈølə#
+Middle French stage form : *#ʃwˌɛjˈølə#
+*#ʃwˌɛjˈølə̯# | 702 : ə > ə̯ / __ #
+*#ʃwˌɛjˈøl# | 720 : ə̯ > ∅ 
+*#ʃwˌɛjˈœl# | 724 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
+*#ʃwɛjœl# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʃwajœl# | 743 : ɛ > a / w __ 
+Final form : *#ʃwajœl#

@@ -1,0 +1,27 @@
+Derivation file for run 'FlapsTest'; etymon number :133:
+#kˈubit̪um# >>> *#kut̪# ( GOLD : #kud̪#) :
+k ˈu b i t̪ u m 
+*#kˈʊbɪt̪ʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈʊβɪt̪ʊm# | 51 : b > β / [+syl] __ [+son]
+*#kˈoβet̪om# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈoβet̪o# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈoβet̪o#
+*#kˈoβt̪o# | 94 : e > ∅ / [-nas] [-syl] __ [+distr] [-prim]
+*#kˈoɸt̪o# | 101 : [+ant,+cons,-son] > [-voi] / __ [-voi,+ant]
+Early Gallo-Roman stage form : *#kˈoɸt̪o#
+Middle Gallo-Roman stage form : *#kˈoɸt̪o#
+*#kˈoɸt̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#kˈoɸt̪ə̯# | 269 : ə > ə̯ 
+*#kˈoɸt̪# | 294 : ə̯ > ∅ 
+*#kˈoɸt̪ə# | 314 : ∅ > ə / [+cons,+lab] [+cor,-delrel] __ #
+*#kˈot̪t̪ə# | 326 : [+lab,-nas,-round,+cons] > t̪ / __ [-cont,+cor,-voi]
+Later Gallo-Roman stage form : *#kˈot̪t̪ə#
+*#kˈot̪ə# | 492 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
+Old French I stage form : *#kˈot̪ə#
+*#kˈut̪ə# | 562 : [+round,+tense,+back] > [+hi] 
+Old French II stage form : *#kˈut̪ə#
+Middle French stage form : *#kˈut̪ə#
+*#kˈut̪ə̯# | 702 : ə > ə̯ / __ #
+*#kˈut̪# | 720 : ə̯ > ∅ 
+*#kut̪# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#kut̪#

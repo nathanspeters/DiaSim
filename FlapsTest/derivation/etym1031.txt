@@ -1,0 +1,27 @@
+Derivation file for run 'FlapsTest'; etymon number :1031:
+#rˈuːɡɑm# >>> *#ʁy# ( GOLD : #ʁy#) :
+r ˈuː ɡ ɑ m 
+*#rˈuɡɑm# | 57 : [+syl,+long] > [-long,-splng] 
+*#rˈuɡɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#rˈuɣɑ# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#rˈuɣɑ#
+*#rˈuːɣɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#rˈuːɣɑ#
+*#rˈuːɑ# | 120 : ɣ > ∅ / [+hi,+round,+syl] __ [+lo]
+*#rˈuːa# | 193 : [+lo] > [+front,-back] 
+*#rˈʉːa# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#rˈʉːa#
+Later Gallo-Roman stage form : *#rˈʉːa#
+*#rˈʉːə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#rˈʉə# | 452 : [+syl] > [-long,-splng] 
+*#rˈyə# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#rˈyə#
+Old French II stage form : *#rˈyə#
+*#rˈyə̯# | 644 : ə > ə̯ / [-cons] __ 
+*#rˈyː# | 671 : [+stres] ə̯ > [+long] ∅
+Middle French stage form : *#rˈyː#
+*#ʀˈyː# | 735 : r > ʀ 
+*#ʀyː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʀy# | 738 : [+syl,+long] > [-long,-splng] 
+*#ʁy# | 744 : ʀ > ʁ 
+Final form : *#ʁy#

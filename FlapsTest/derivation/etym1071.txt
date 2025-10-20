@@ -1,0 +1,25 @@
+Derivation file for run 'FlapsTest'; etymon number :1071:
+#sˈɑpɑm# >>> *#sɛv# ( GOLD : #sɛv#) :
+s ˈɑ p ɑ m 
+*#sˈɑpɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˈɑpɑ#
+*#sˈɑːpɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#sˈɑːpɑ#
+*#sˈaːpa# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#sˈaːpa#
+*#sˈaːba# | 346 : [-voi] > [+voi] / [-cons] __ [-cons]
+*#sˈaːβa# | 371 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [-cons]
+*#sˈae̯βa# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#sˈae̯va# | 437 : β > v 
+Later Gallo-Roman stage form : *#sˈae̯va#
+*#sˈae̯və# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#sˈeːvə# | 453 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
+Old French I stage form : *#sˈeːvə#
+*#sˈevə# | 546 : [+syl] > [-long,-splng] 
+Old French II stage form : *#sˈevə#
+Middle French stage form : *#sˈevə#
+*#sˈɛvə# | 699 : [+tense,-hi,-lo,-round,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] [-cons,-back,-front]
+*#sˈɛvə̯# | 702 : ə > ə̯ / __ #
+*#sˈɛv# | 720 : ə̯ > ∅ 
+*#sɛv# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#sɛv#

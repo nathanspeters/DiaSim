@@ -1,0 +1,40 @@
+Derivation file for run 'FlapsTest'; etymon number :49:
+#d̪ˌisfˈɑkere# >>> *#d̪efɛʁ# ( GOLD : #d̪efɛʁ#) :
+d̪ ˌi s f ˈɑ k e r e 
+*#d̪ˌɪsfˈɑkɛrɛ# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#d̪ˌɪsfˈɑkrɛ# | 45 : [-stres,+front] > ∅ / [+prim,+lo] [+back,-cont] __ [+cor,-strid,-nas,-lat] [+syl]
+*#d̪ˌesfˈɑkrɛ# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#d̪ˌesfˈɑkrɛ#
+*#d̪ˌesfˈɑːkrɛ# | 108 : [+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
+Early Gallo-Roman stage form : *#d̪ˌesfˈɑːkrɛ#
+*#d̪ˌesfˈɑːxrɛ# | 113 : [+hi,+back,-cont] > [+cont,0delrel] / [-cons] __ [+cor,+cons]
+*#d̪ˌesfˈɑxrɛ# | 148 : [+syl] > [-long,-splng] / __ [-syl] [+cons]
+*#d̪ˌesfˈaxrɛ# | 193 : [+lo] > [+front,-back] 
+*#d̪ˌesfˈaçrɛ# | 202 : [+back,+hi,+cont,-son] > [-back,+front] / __ [+cor]
+*#d̪ˌesfˈaçrʲɛ# | 210 : [+cor,+ant,-lat] > [+hi,+front] / [+hi,+front,+cons] __ 
+Middle Gallo-Roman stage form : *#d̪ˌesfˈaçrʲɛ#
+*#d̪ˌesfˈarʲɛ# | 239 : [+hi,+front,-lat,-syl] > ∅ / __ rʲ
+*#d̪ˌesfˈarʲə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#d̪ˌesfˈarʲə̯# | 269 : ə > ə̯ 
+*#d̪ˌesfˈarʲ# | 294 : ə̯ > ∅ 
+*#d̪ˌesfˈajrʲ# | 344 : ∅ > j / [-cons] __ rʲ
+*#d̪ˌesfˈaːjrʲ# | 360 : [+prim] > [+long] / __ j ( [+cons] )* [+cor,+hi,+front]
+*#d̪ˌesfˈaːjr# | 381 : rʲ > r 
+*#d̪ˌesfˈajr# | 392 : [+syl] > [-long,-splng] / __ [-syl] [-syl] ( [-syl] )* #
+Later Gallo-Roman stage form : *#d̪ˌesfˈajr#
+*#d̪ˌezfˈajr# | 481 : s > z / __ [+cont,+cons,-cor]
+*#d̪ˌezfˈajrə# | 500 : ∅ > ə / [+lo] j r __ #
+Old French I stage form : *#d̪ˌezfˈajrə#
+*#d̪ˌeːzfˈajrə# | 549 : [+stres] > [+long] / @ __ z [+cons] [+syl]
+*#d̪ˌeːfˈajrə# | 550 : z > ∅ / __ [+cons]
+*#d̪ˌeːfˈɛjrə# | 601 : [+syl,-round,-hi] > [-lo,-tense,-cons,-lat,+cont,0delrel] / __ j [+cons]
+*#d̪ˌeːfˈɛrə# | 623 : j > ∅ / [-round,-tense,+stres] __ [+cons]
+*#d̪ˌefˈɛrə# | 635 : ˌeː > ˌe 
+Old French II stage form : *#d̪ˌefˈɛrə#
+Middle French stage form : *#d̪ˌefˈɛrə#
+*#d̪ˌefˈɛrə̯# | 702 : ə > ə̯ / __ #
+*#d̪ˌefˈɛr# | 720 : ə̯ > ∅ 
+*#d̪ˌefˈɛʀ# | 735 : r > ʀ 
+*#d̪efɛʀ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#d̪efɛʁ# | 744 : ʀ > ʁ 
+Final form : *#d̪efɛʁ#

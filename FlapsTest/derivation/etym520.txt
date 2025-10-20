@@ -1,0 +1,27 @@
+Derivation file for run 'FlapsTest'; etymon number :520:
+#krˈuːd̪ɑːs# >>> *#kʁy# ( GOLD : #kʁy#) :
+k r ˈuː d̪ ɑː s 
+*#krˈud̪ɑs# | 57 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#krˈud̪ɑs#
+*#krˈuðɑs# | 100 : [-delrel,+voi] > [+cont,0delrel] / [+syl] __ [+son,-nas]
+*#krˈuːðɑs# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#krˈuːðɑs#
+*#krˈuːðas# | 193 : [+lo] > [+front,-back] 
+*#krˈʉːðas# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#krˈʉːðas#
+Later Gallo-Roman stage form : *#krˈʉːðas#
+*#krˈʉːðəs# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#krˈʉðəs# | 452 : [+syl] > [-long,-splng] 
+*#krˈyðəs# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#krˈyðəs#
+*#krˈyəs# | 594 : {θ;ð} > {∅;∅} 
+Old French II stage form : *#krˈyəs#
+*#krˈyə# | 640 : [+cons] > ∅ / ə __ #
+*#krˈyə̯# | 644 : ə > ə̯ / [-cons] __ 
+*#krˈyː# | 671 : [+stres] ə̯ > [+long] ∅
+Middle French stage form : *#krˈyː#
+*#kʀˈyː# | 735 : r > ʀ 
+*#kʀyː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#kʀy# | 738 : [+syl,+long] > [-long,-splng] 
+*#kʁy# | 744 : ʀ > ʁ 
+Final form : *#kʁy#

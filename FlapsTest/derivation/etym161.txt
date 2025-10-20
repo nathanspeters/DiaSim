@@ -1,0 +1,43 @@
+Derivation file for run 'FlapsTest'; etymon number :161:
+#ˌuːst̪iˈɑːrium# >>> *#ɥise# ( GOLD : #ɥisje#) :
+ˌuː s t̪ i ˈɑː r i u m 
+*#ˌuːst̪ɪˈɑːrɪʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌuːst̪jˈɑːrjʊm# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ˌuːst̪ʝˈɑːrʝʊm# | 29 : j > ʝ / __ [+syl]
+*#ˌust̪ʝˈɑrʝʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#ˌust̪ʝˈɑrʝom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌust̪ʝˈɑrʝo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#ˌust͡sʲʝˈɑrʝo# | 76 : {t̪;d̪} > {t͡sʲ;ɟ} / __ [+hi,+front,-syl,+cont]
+Late Latin stage form : *#ˌust͡sʲʝˈɑrʝo#
+*#ˌust͡sʲˈɑrʝo# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+Early Gallo-Roman stage form : *#ˌust͡sʲˈɑrʝo#
+*#ˌust͡sʲˈɑrʲo# | 170 : r ʝ > rʲ 
+*#ˌusʲsʲˈɑrʲo# | 172 : s [+hi,+front,+cons] > sʲ sʲ
+*#ˌusʲsʲˈarʲo# | 193 : [+lo] > [+front,-back] 
+*#ˌʉsʲsʲˈarʲo# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+*#ˌʉsʲsʲˈaːrʲo# | 218 : [+prim] > [+long] / __ ( [+cons] ) [+syl]
+*#ˌʉsʲsʲˈɛːrʲo# | 236 : ˈaː > ˈɛː / [+cons,+front] __ rʲ
+*#ˌʉsʲsʲˈie̯rʲo# | 237 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+Middle Gallo-Roman stage form : *#ˌʉsʲsʲˈie̯rʲo#
+*#ˌʉsʲsʲˈie̯rʲə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#ˌʉsʲsʲˈie̯rʲə̯# | 269 : ə > ə̯ 
+*#ˌʉsʲsʲˈie̯rʲ# | 294 : ə̯ > ∅ 
+*#ˌʉsʲsʲˈie̯jrʲ# | 344 : ∅ > j / [-cons] __ rʲ
+*#ˌʉsʲsʲˈie̯rʲ# | 345 : j > ∅ / [+syl] ( [-syl] )* ˈi e̯ __ rʲ
+*#ˌʉsʲˈie̯rʲ# | 380 : sʲ sʲ > sʲ 
+*#ˌʉsʲˈie̯r# | 381 : rʲ > r 
+*#ˌʉjsˈie̯r# | 382 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
+*#ˌʉjsʲˈie̯r# | 387 : [+cor] > [+hi,+front] / [+front,+hi] __ [+hi,+front]
+Later Gallo-Roman stage form : *#ˌʉjsʲˈie̯r#
+*#ˌyjsʲˈie̯r# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#ˌyjsʲˈie̯r#
+*#ˌyjsʲjˈer# | 590 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+*#ɥˌisʲjˈer# | 616 : [+front,+round,+syl,+hi,βstres,ɣprim] [-round,-syl,-cons] > [-syl,0stres,0prim] [+syl,βstres,ɣprim,+son,0delrel]
+Old French II stage form : *#ɥˌisʲjˈer#
+*#ɥˌisʲˈer# | 656 : j > ∅ / [+front,+cons] __ [+front,-hi,-lo,-round,+syl,-nas]
+*#ɥˌisˈer# | 657 : [+ant,+front] > [-front,-hi] 
+Middle French stage form : *#ɥˌisˈer#
+*#ɥˌisˈeɹ# | 711 : r > ɹ / [-cons] __ #
+*#ɥˌisˈe# | 731 : ɹ > ∅ / [+syl] ( [-syl] )* [-hi,+front,+tense,-lo] __ #
+*#ɥise# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɥise#

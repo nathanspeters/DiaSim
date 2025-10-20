@@ -1,0 +1,26 @@
+Derivation file for run 'FlapsTest'; etymon number :337:
+#heːmˈiːn̪ɑm# >>> *#min̪# ( GOLD : #min̪#) :
+h eː m ˈiː n̪ ɑ m 
+*#hemˈin̪ɑm# | 57 : [+syl,+long] > [-long,-splng] 
+*#hemˈin̪ɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#hemˈin̪ɑ#
+*#hemˈiːn̪ɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#hemˈiːn̪ɑ#
+*#emˈiːn̪ɑ# | 137 : h > ∅ 
+*#emˈiːn̪a# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#emˈiːn̪a#
+*#əmˈiːn̪a# | 261 : [-stres,-lo,+syl] > ə / __ [-syl]
+*#ə̯mˈiːn̪a# | 269 : ə > ə̯ 
+*#mˈiːn̪a# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#mˈiːn̪a#
+*#mˈiːn̪ə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#mˈin̪ə# | 452 : [+syl] > [-long,-splng] 
+Old French I stage form : *#mˈin̪ə#
+*#mˈĩn̪ə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+Old French II stage form : *#mˈĩn̪ə#
+*#mˈin̪ə# | 649 : [+nas,+front,+hi,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+Middle French stage form : *#mˈin̪ə#
+*#mˈin̪ə̯# | 702 : ə > ə̯ / __ #
+*#mˈin̪# | 720 : ə̯ > ∅ 
+*#min̪# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#min̪#

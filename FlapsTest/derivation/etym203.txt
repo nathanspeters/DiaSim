@@ -1,0 +1,33 @@
+Derivation file for run 'FlapsTest'; etymon number :203:
+#kˈɑweɑm# >>> *#ʃi# ( GOLD : #kaʒ#) :
+k ˈɑ w e ɑ m 
+*#kˈɑɣʷeɑm# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#kˈɑɣʷɛɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈɑɣʷjɑm# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˈɑɣʷʝɑm# | 29 : j > ʝ / __ [+syl]
+*#kˈɑʝɑm# | 31 : {ɣʷ;w} > {∅;∅} / __ ʝ
+*#kˈɑʝɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈɑʝɑ#
+*#kˈɑːʝɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#kˈɑːʝɑ#
+*#kˈaːʝa# | 193 : [+lo] > [+front,-back] 
+*#kʲˈaːʝa# | 228 : [+hi,+back,+cons] > [+front] / __ [+front,+syl]
+*#kʲˈɛːʝa# | 234 : ˈaː > ˈɛː / # [+cons,+front] __ 
+*#kʲˈie̯ʝa# | 237 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+Middle Gallo-Roman stage form : *#kʲˈie̯ʝa#
+*#cˈie̯ʝa# | 240 : [+back,+front] > [-back] 
+*#t͡ʃˈie̯ʝa# | 249 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
+*#t͡ʃˈie̯ja# | 377 : ʝ > j 
+Later Gallo-Roman stage form : *#t͡ʃˈie̯ja#
+*#t͡ʃˈie̯jə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#t͡ʃˈijə# | 522 : e̯ > ∅ / [+hi,+front,+tense,+prim] __ [-syl,-cons,+hi,-round]
+*#t͡ʃˈiə# | 523 : [-syl,-cons,+hi,-round] > ∅ / ˈi __ 
+Old French I stage form : *#t͡ʃˈiə#
+*#ʃˈiə# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#ʃˈiə#
+*#ʃˈiə̯# | 644 : ə > ə̯ / [-cons] __ 
+*#ʃˈiː# | 671 : [+stres] ə̯ > [+long] ∅
+Middle French stage form : *#ʃˈiː#
+*#ʃiː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʃi# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#ʃi#

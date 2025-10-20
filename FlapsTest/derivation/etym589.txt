@@ -1,0 +1,31 @@
+Derivation file for run 'FlapsTest'; etymon number :589:
+#lˌeːɡˈɑːleːs# >>> *#lwajo# ( GOLD : #lwajo#) :
+l ˌeː ɡ ˈɑː l eː s 
+*#lˌeɡˈɑles# | 57 : [+syl,+long] > [-long,-splng] 
+*#lˌeɣˈɑles# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#lˌeɣˈɑles#
+*#lˌeɣˈɑːles# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#lˌeɣˈɑːles#
+*#lˌeˈɑːles# | 185 : ɣ > ∅ / [+front,-hi,-lo,+tense] __ ˈɑː
+*#lˌejˈɑːles# | 189 : ∅ > j / ˌe __ [+lo]
+*#lˌejˈaːles# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#lˌejˈaːles#
+*#lˌejˈaːləs# | 261 : [-stres,-lo,+syl] > ə / __ [-syl]
+*#lˌejˈaːlə̯s# | 269 : ə > ə̯ 
+*#lˌejˈaːls# | 294 : ə̯ > ∅ 
+*#lˌejˈals# | 349 : [+syl] > [-long,-splng] / __ [-syl] [+cons,-son]
+Later Gallo-Roman stage form : *#lˌejˈals#
+*#lˌejˈaɫs# | 504 : [+lat] > ɫ / __ [+cons]
+Old French I stage form : *#lˌejˈaɫs#
+*#lˌojˈaɫs# | 552 : [+front,+tense,-hi,-lo,+syl,-long] > [+back,-front,+round,+lab] / __ j
+*#lˌujˈaɫs# | 562 : [+round,+tense,+back] > [+hi] 
+*#lˌujˈaws# | 574 : [+lat,+back] > w 
+*#lwˌɛjˈaws# | 612 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
+Old French II stage form : *#lwˌɛjˈaws#
+*#lwˌɛjˈoːs# | 654 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+Middle French stage form : *#lwˌɛjˈoːs#
+*#lwˌɛjˈoː# | 718 : [-son] > ∅ / __ #
+*#lwɛjoː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#lwɛjo# | 738 : [+syl,+long] > [-long,-splng] 
+*#lwajo# | 743 : ɛ > a / w __ 
+Final form : *#lwajo#

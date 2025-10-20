@@ -1,0 +1,25 @@
+Derivation file for run 'FlapsTest'; etymon number :280:
+#d̪ˈoːɡɑm# >>> *#d̪uv# ( GOLD : #d̪uv#) :
+d̪ ˈoː ɡ ɑ m 
+*#d̪ˈoɡɑm# | 57 : [+syl,+long] > [-long,-splng] 
+*#d̪ˈoɡɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#d̪ˈoɣɑ# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#d̪ˈoɣɑ#
+*#d̪ˈoːɣɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#d̪ˈoːɣɑ#
+*#d̪ˈoːβʷɑ# | 121 : ɣ > βʷ / [+round,-hi,+back,+syl] __ [+lo]
+*#d̪ˈoːβɑ# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+*#d̪ˈoːβa# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#d̪ˈoːβa#
+*#d̪ˈowβa# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#d̪ˈowva# | 437 : β > v 
+Later Gallo-Roman stage form : *#d̪ˈowva#
+*#d̪ˈowvə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#d̪ˈuvə# | 525 : [+tense,+syl,+round,-hi,-lo] w > [+hi] ∅/ [-lab,+cons] __ [+lab,-syl]
+Old French I stage form : *#d̪ˈuvə#
+Old French II stage form : *#d̪ˈuvə#
+Middle French stage form : *#d̪ˈuvə#
+*#d̪ˈuvə̯# | 702 : ə > ə̯ / __ #
+*#d̪ˈuv# | 720 : ə̯ > ∅ 
+*#d̪uv# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#d̪uv#

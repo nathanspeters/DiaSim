@@ -1,0 +1,24 @@
+Derivation file for run 'FlapsTest'; etymon number :718:
+#mˈolliːs# >>> *#mu# ( GOLD : #mu#) :
+m ˈo l l iː s 
+*#mˈɔlliːs# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɔllis# | 57 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#mˈɔllis#
+Early Gallo-Roman stage form : *#mˈɔllis#
+Middle Gallo-Roman stage form : *#mˈɔllis#
+*#mˈɔlləs# | 261 : [-stres,-lo,+syl] > ə / __ [-syl]
+*#mˈɔllə̯s# | 269 : ə > ə̯ 
+*#mˈɔlls# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#mˈɔlls#
+*#mˈɔls# | 476 : [-syl] > ∅ / [+cons] __ [-son]
+*#mˈɔɫs# | 504 : [+lat] > ɫ / __ [+cons]
+Old French I stage form : *#mˈɔɫs#
+*#mˈɔws# | 574 : [+lat,+back] > w 
+*#mˈus# | 606 : [-hi,-lo,+back,+round] w > [+hi,+tense,-cons,-lat,+cont,0delrel] ∅
+*#mˈuːs# | 626 : [+prim] > [+long] / __ s #
+Old French II stage form : *#mˈuːs#
+Middle French stage form : *#mˈuːs#
+*#mˈuː# | 718 : [-son] > ∅ / __ #
+*#muː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#mu# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#mu#

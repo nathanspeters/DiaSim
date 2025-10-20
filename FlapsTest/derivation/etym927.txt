@@ -1,0 +1,24 @@
+Derivation file for run 'FlapsTest'; etymon number :927:
+#plˈuːmɑm# >>> *#plym# ( GOLD : #plym#) :
+p l ˈuː m ɑ m 
+*#plˈumɑm# | 57 : [+syl,+long] > [-long,-splng] 
+*#plˈumɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#plˈumɑ#
+*#plˈuːmɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#plˈuːmɑ#
+*#plˈuːma# | 193 : [+lo] > [+front,-back] 
+*#plˈʉːma# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#plˈʉːma#
+Later Gallo-Roman stage form : *#plˈʉːma#
+*#plˈʉːmə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#plˈʉmə# | 452 : [+syl] > [-long,-splng] 
+*#plˈymə# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#plˈymə#
+*#plˈỹmə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+Old French II stage form : *#plˈỹmə#
+*#plˈymə# | 649 : [+nas,+front,+hi,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+Middle French stage form : *#plˈymə#
+*#plˈymə̯# | 702 : ə > ə̯ / __ #
+*#plˈym# | 720 : ə̯ > ∅ 
+*#plym# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#plym#

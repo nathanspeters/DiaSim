@@ -1,0 +1,21 @@
+Derivation file for run 'FlapsTest'; etymon number :887:
+#pˌilˈot̪t̪ɑm# >>> *#pəlɔt̪# ( GOLD : #pəlɔt̪#) :
+p ˌi l ˈo t̪ t̪ ɑ m 
+*#pˌɪlˈɔt̪t̪ɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌelˈɔt̪t̪ɑm# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#pˌelˈɔt̪t̪ɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˌelˈɔt̪t̪ɑ#
+Early Gallo-Roman stage form : *#pˌelˈɔt̪t̪ɑ#
+*#pˌelˈɔt̪t̪a# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#pˌelˈɔt̪t̪a#
+Later Gallo-Roman stage form : *#pˌelˈɔt̪t̪a#
+*#pˌelˈɔt̪t̪ə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#pˌelˈɔt̪ə# | 492 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
+*#pˌəlˈɔt̪ə# | 509 : ˌe > ˌə / __ ( [+cons] ) [+syl]
+Old French I stage form : *#pˌəlˈɔt̪ə#
+Old French II stage form : *#pˌəlˈɔt̪ə#
+Middle French stage form : *#pˌəlˈɔt̪ə#
+*#pˌəlˈɔt̪ə̯# | 702 : ə > ə̯ / __ #
+*#pˌəlˈɔt̪# | 720 : ə̯ > ∅ 
+*#pəlɔt̪# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#pəlɔt̪#

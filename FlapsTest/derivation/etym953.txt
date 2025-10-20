@@ -1,0 +1,33 @@
+Derivation file for run 'FlapsTest'; etymon number :953:
+#prˌɑe̯pˈosit̪um# >>> *#pʁəvo# ( GOLD : #pʁevo#) :
+p r ˌɑ e̯ p ˈo s i t̪ u m 
+*#prˌae̯pˈosit̪um# | 3 : [+lo] > [+front,-back] / __ e̯
+*#prˌae̯pˈɔsɪt̪ʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#prˌɛpˈɔsɪt̪ʊm# | 58 : {a e̯;ˌa e̯;ˈa e̯} > {ɛ;ˌɛ;ˈɛ} 
+*#prˌɛpˈɔset̪om# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#prˌɛpˈɔset̪o# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#prˌɛpˈɔset̪o#
+*#prˌɛpˈɔst̪o# | 94 : e > ∅ / [-nas] [-syl] __ [+distr] [-prim]
+Early Gallo-Roman stage form : *#prˌɛpˈɔst̪o#
+Middle Gallo-Roman stage form : *#prˌɛpˈɔst̪o#
+*#prˌɛpˈɔst̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#prˌɛpˈɔst̪ə̯# | 269 : ə > ə̯ 
+*#prˌɛpˈɔst̪# | 294 : ə̯ > ∅ 
+*#prˌɛbˈɔst̪# | 346 : [-voi] > [+voi] / [-cons] __ [-cons]
+*#prˌɛβˈɔst̪# | 371 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [-cons]
+*#prˌeβˈɔst̪# | 421 : ˌɛ > ˌe / __ @ @
+*#prˌevˈɔst̪# | 437 : β > v 
+Later Gallo-Roman stage form : *#prˌevˈɔst̪#
+*#prˌəvˈɔst̪# | 509 : ˌe > ˌə / __ ( [+cons] ) [+syl]
+Old French I stage form : *#prˌəvˈɔst̪#
+*#prˌəvˈɔxt̪# | 587 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
+*#prˌəvˈɔːt̪# | 633 : [+syl] x > [+long] ∅/ __ [+cons]
+*#prˌəvˈoːt̪# | 637 : [-lo,-hi,+back,-tense,+long] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] ) #
+Old French II stage form : *#prˌəvˈoːt̪#
+Middle French stage form : *#prˌəvˈoːt̪#
+*#prˌəvˈoː# | 718 : [-son] > ∅ / __ #
+*#pʀˌəvˈoː# | 735 : r > ʀ 
+*#pʀəvoː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#pʀəvo# | 738 : [+syl,+long] > [-long,-splng] 
+*#pʁəvo# | 744 : ʀ > ʁ 
+Final form : *#pʁəvo#

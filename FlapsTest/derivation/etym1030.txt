@@ -1,0 +1,30 @@
+Derivation file for run 'FlapsTest'; etymon number :1030:
+#rˈubeum# >>> *#ʁuʒ# ( GOLD : #ʁuʒ#) :
+r ˈu b e u m 
+*#rˈʊbɛʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˈʊbjʊm# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#rˈʊbʝʊm# | 29 : j > ʝ / __ [+syl]
+*#rˈobʝom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#rˈobʝo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#rˈobʝo#
+Early Gallo-Roman stage form : *#rˈobʝo#
+Middle Gallo-Roman stage form : *#rˈobʝo#
+*#rˈobɟo# | 247 : {j;ʝ} > {ɟ;ɟ} / @ [+cons] ( [+cons] )* __ [+syl]
+*#rˈobd͡ʒo# | 249 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
+*#rˈobd͡ʒə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#rˈobd͡ʒə̯# | 269 : ə > ə̯ 
+*#rˈobd͡ʒə# | 286 : ə̯ > ə / [+delrel,-ant] __ 
+*#rˈod̪d͡ʒə# | 327 : [+lab,-nas,-round,+cons] > d̪ / __ [-cont,+cor,+voi]
+Later Gallo-Roman stage form : *#rˈod̪d͡ʒə#
+*#rˈod͡ʒə# | 492 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
+Old French I stage form : *#rˈod͡ʒə#
+*#rˈud͡ʒə# | 562 : [+round,+tense,+back] > [+hi] 
+*#rˈuʒə# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#rˈuʒə#
+Middle French stage form : *#rˈuʒə#
+*#rˈuʒə̯# | 702 : ə > ə̯ / __ #
+*#rˈuʒ# | 720 : ə̯ > ∅ 
+*#ʀˈuʒ# | 735 : r > ʀ 
+*#ʀuʒ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʁuʒ# | 744 : ʀ > ʁ 
+Final form : *#ʁuʒ#

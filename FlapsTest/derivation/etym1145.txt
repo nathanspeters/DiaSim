@@ -1,0 +1,33 @@
+Derivation file for run 'FlapsTest'; etymon number :1145:
+#spˈon̪sum# >>> *#epu# ( GOLD : #epu#) :
+s p ˈo n̪ s u m 
+*#spˈoːn̪sum# | 11 : [+syl] > [+long] / __ n̪ s ( [-syl] )* [-stres]
+*#spˈoːsum# | 12 : n̪ > ∅ / [+syl,+long] __ s
+*#spˈoːsʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪspˈoːsʊm# | 17 : ∅ > ˌɪ / # __ s [+cons]
+*#ˌɪspˈosʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#ˌespˈosom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌespˈoso# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌespˈoso#
+*#ˌespˈoːso# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#ˌespˈoːso#
+*#ˌespˈoːzo# | 133 : [+cont,-son] > [+voi] / [-cons] __ [+syl]
+Middle Gallo-Roman stage form : *#ˌespˈoːzo#
+*#ˌespˈoːzə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#ˌespˈoːzə̯# | 269 : ə > ə̯ 
+*#ˌespˈoːz# | 294 : ə̯ > ∅ 
+*#ˌespˈowz# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+Later Gallo-Roman stage form : *#ˌespˈowz#
+*#ˌespˈows# | 448 : [-son] > [-voi] / __ #
+*#ˌespˈus# | 526 : [+tense,+syl,+round,-hi,-lo] w > [+hi] ∅/ p __ 
+Old French I stage form : *#ˌespˈus#
+*#ˌexpˈus# | 587 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
+*#ˌexpˈuːs# | 626 : [+prim] > [+long] / __ s #
+*#ˌeːpˈuːs# | 633 : [+syl] x > [+long] ∅/ __ [+cons]
+*#ˌepˈuːs# | 635 : ˌeː > ˌe 
+Old French II stage form : *#ˌepˈuːs#
+Middle French stage form : *#ˌepˈuːs#
+*#ˌepˈuː# | 718 : [-son] > ∅ / __ #
+*#epuː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#epu# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#epu#

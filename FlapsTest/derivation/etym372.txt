@@ -1,0 +1,28 @@
+Derivation file for run 'FlapsTest'; etymon number :372:
+#ˈin̪sulɑ# >>> *#il# ( GOLD : #il#) :
+ˈi n̪ s u l ɑ 
+*#ˈiːn̪sulɑ# | 11 : [+syl] > [+long] / __ n̪ s ( [-syl] )* [-stres]
+*#ˈiːsulɑ# | 12 : n̪ > ∅ / [+syl,+long] __ s
+*#ˈiːsʊlɑ# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈisʊlɑ# | 57 : [+syl,+long] > [-long,-splng] 
+*#ˈisolɑ# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+Late Latin stage form : *#ˈisolɑ#
+*#ˈiːsolɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#ˈiːsolɑ#
+*#ˈiːzolɑ# | 133 : [+cont,-son] > [+voi] / [-cons] __ [+syl]
+*#ˈiːzola# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#ˈiːzola#
+*#ˈiːzəla# | 257 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
+*#ˈiːzə̯la# | 269 : ə > ə̯ 
+*#ˈiːzla# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#ˈiːzla#
+*#ˈiːzlə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#ˈizlə# | 452 : [+syl] > [-long,-splng] 
+Old French I stage form : *#ˈizlə#
+*#ˈilə# | 550 : z > ∅ / __ [+cons]
+Old French II stage form : *#ˈilə#
+Middle French stage form : *#ˈilə#
+*#ˈilə̯# | 702 : ə > ə̯ / __ #
+*#ˈil# | 720 : ə̯ > ∅ 
+*#il# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#il#

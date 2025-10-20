@@ -1,0 +1,27 @@
+Derivation file for run 'FlapsTest'; etymon number :278:
+#plˈɑːɡɑm# >>> *#plɛ# ( GOLD : #plɛ#) :
+p l ˈɑː ɡ ɑ m 
+*#plˈɑɡɑm# | 57 : [+syl,+long] > [-long,-splng] 
+*#plˈɑɡɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#plˈɑɣɑ# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#plˈɑɣɑ#
+*#plˈɑːɣɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#plˈɑːɣɑ#
+*#plˈaːɣa# | 193 : [+lo] > [+front,-back] 
+*#plˈaːɣʲa# | 228 : [+hi,+back,+cons] > [+front] / __ [+front,+syl]
+Middle Gallo-Roman stage form : *#plˈaːɣʲa#
+*#plˈaːʝa# | 240 : [+back,+front] > [-back] 
+*#plˈaːja# | 377 : ʝ > j 
+*#plˈae̯ja# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#plˈaja# | 415 : e̯ > ∅ / ˈa __ [+front,+son,-syl]
+Later Gallo-Roman stage form : *#plˈaja#
+*#plˈajə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#plˈajə#
+Old French II stage form : *#plˈajə#
+*#plˈajə̯# | 644 : ə > ə̯ / [-cons] __ 
+*#plˈɛːə̯# | 669 : [+lo,+front] j > [-lo,-tense,+long,-cons,-lat,+cont,0delrel] ∅/ __ ( ə̯ ) #
+*#plˈɛː# | 671 : [+stres] ə̯ > [+long] ∅
+Middle French stage form : *#plˈɛː#
+*#plɛː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#plɛ# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#plɛ#

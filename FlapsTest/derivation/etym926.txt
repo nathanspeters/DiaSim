@@ -1,0 +1,28 @@
+Derivation file for run 'FlapsTest'; etymon number :926:
+#plˈowiɑm# >>> *#plwa# ( GOLD : #plɥi#) :
+p l ˈo w i ɑ m 
+*#plˈoɣʷiɑm# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#plˈɔɣʷɪɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#plˈɔɣʷjɑm# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#plˈɔɣʷʝɑm# | 29 : j > ʝ / __ [+syl]
+*#plˈɔwʝɑm# | 48 : ɣʷ > w / __ [+cons]
+*#plˈɔwʝɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#plˈɔwʝɑ#
+Early Gallo-Roman stage form : *#plˈɔwʝɑ#
+*#plˈɔwʝa# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#plˈɔwʝa#
+*#plˈɔwja# | 377 : ʝ > j 
+*#plˈɔja# | 427 : w > ∅ / [+round,-tense] __ [-syl,-cor]
+Later Gallo-Roman stage form : *#plˈɔja#
+*#plˈɔjə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#plˈɔjə#
+*#plˈɔɛ̯ə# | 613 : j > ɛ̯ / [+syl,+back,+round] __ 
+*#plwˈɛə# | 614 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+Old French II stage form : *#plwˈɛə#
+*#plwˈɛə̯# | 644 : ə > ə̯ / [-cons] __ 
+*#plwˈɛː# | 671 : [+stres] ə̯ > [+long] ∅
+Middle French stage form : *#plwˈɛː#
+*#plwɛː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#plwɛ# | 738 : [+syl,+long] > [-long,-splng] 
+*#plwa# | 743 : ɛ > a / w __ 
+Final form : *#plwa#

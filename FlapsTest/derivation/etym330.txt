@@ -1,0 +1,25 @@
+Derivation file for run 'FlapsTest'; etymon number :330:
+#ɡˈulɑm# >>> *#ɡœl# ( GOLD : #ɡœl#) :
+ɡ ˈu l ɑ m 
+*#ɡˈʊlɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɡˈolɑm# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ɡˈolɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ɡˈolɑ#
+*#ɡˈoːlɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#ɡˈoːlɑ#
+*#ɡˈoːla# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#ɡˈoːla#
+*#ɡˈowla# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+Later Gallo-Roman stage form : *#ɡˈowla#
+*#ɡˈowlə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#ɡˈowlə#
+*#ɡˈewlə# | 551 : ˈo > ˈe / __ w
+*#ɡˈøwlə# | 595 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+*#ɡˈølə# | 603 : w > ∅ / [+round,+front,-hi,+syl] __ 
+Old French II stage form : *#ɡˈølə#
+Middle French stage form : *#ɡˈølə#
+*#ɡˈølə̯# | 702 : ə > ə̯ / __ #
+*#ɡˈøl# | 720 : ə̯ > ∅ 
+*#ɡˈœl# | 724 : [+front,+round,-hi,+syl] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] ( [+cons] )* ( ə ) #
+*#ɡœl# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɡœl#

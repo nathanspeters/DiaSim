@@ -1,0 +1,24 @@
+Derivation file for run 'FlapsTest'; etymon number :1287:
+#ˈursɑm# >>> *#uʁs# ( GOLD : #uʁs#) :
+ˈu r s ɑ m 
+*#ˈʊrsɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˈorsɑm# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˈorsɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˈorsɑ#
+Early Gallo-Roman stage form : *#ˈorsɑ#
+*#ˈorsa# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#ˈorsa#
+Later Gallo-Roman stage form : *#ˈorsa#
+*#ˈorsə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#ˈorsə#
+*#ˈursə# | 562 : [+round,+tense,+back] > [+hi] 
+Old French II stage form : *#ˈursə#
+Middle French stage form : *#ˈursə#
+*#ˈursə̯# | 702 : ə > ə̯ / __ #
+*#ˈuɹsə̯# | 712 : r > ɹ / [-cons] __ [+cons]
+*#ˈuɹs# | 720 : ə̯ > ∅ 
+*#ˈurs# | 733 : ɹ > r 
+*#ˈuʀs# | 735 : r > ʀ 
+*#uʀs# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#uʁs# | 744 : ʀ > ʁ 
+Final form : *#uʁs#
