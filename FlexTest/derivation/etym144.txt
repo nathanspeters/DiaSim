@@ -1,0 +1,30 @@
+Derivation file for run 'FlexTest'; etymon number :144:
+#brˈewem# >>> *#bʁjɛf# ( GOLD : #bʁɛf#) :
+b r ˈe w e m 
+*#brˈeɣʷem# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#brˈɛɣʷɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#brˈɛβʷɛm# | 50 : ɣʷ > βʷ 
+*#brˈɛβʷɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#brˈɛβʷɛ#
+*#brˈɛːβʷɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#brˈɛːβʷɛ#
+*#brˈɛːβɛ# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+*#brˈie̯βɛ# | 163 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+Middle Gallo-Roman stage form : *#brˈie̯βɛ#
+*#brˈie̯βə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#brˈie̯βə̯# | 269 : ə > ə̯ 
+*#brˈie̯β# | 294 : ə̯ > ∅ 
+*#brˈie̯v# | 437 : β > v 
+Later Gallo-Roman stage form : *#brˈie̯v#
+*#brˈie̯f# | 448 : [-son] > [-voi] / __ #
+Old French I stage form : *#brˈie̯f#
+*#brjˈef# | 590 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+Old French II stage form : *#brjˈef#
+Middle French stage form : *#brjˈef#
+*#brjˈɛf# | 700 : ˈe > ˈɛ / __ [+cons,-cor] #
+*#brjˈɛfə̯# | 716 : ∅ > ə̯ / f __ #
+*#brjˈɛf# | 720 : ə̯ > ∅ 
+*#bʀjˈɛf# | 735 : r > ʀ 
+*#bʀjɛf# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#bʁjɛf# | 744 : ʀ > ʁ 
+Final form : *#bʁjɛf#

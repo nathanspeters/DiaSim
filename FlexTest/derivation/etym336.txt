@@ -1,0 +1,29 @@
+Derivation file for run 'FlexTest'; etymon number :336:
+#hˈɑbeo# >>> *#aʒ# ( GOLD : #e#) :
+h ˈɑ b e o 
+*#hˈɑbɛɔ# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#hˈɑbjɔ# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#hˈɑbʝɔ# | 29 : j > ʝ / __ [+syl]
+Late Latin stage form : *#hˈɑbʝɔ#
+Early Gallo-Roman stage form : *#hˈɑbʝɔ#
+*#ˈɑbʝɔ# | 137 : h > ∅ 
+*#ˈabʝɔ# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#ˈabʝɔ#
+*#ˈabɟɔ# | 247 : {j;ʝ} > {ɟ;ɟ} / @ [+cons] ( [+cons] )* __ [+syl]
+*#ˈabd͡ʒɔ# | 249 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
+*#ˈabd͡ʒə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#ˈabd͡ʒə̯# | 269 : ə > ə̯ 
+*#ˈabd͡ʒə# | 286 : ə̯ > ə / [+delrel,-ant] __ 
+*#ˈad̪d͡ʒə# | 327 : [+lab,-nas,-round,+cons] > d̪ / __ [-cont,+cor,+voi]
+Later Gallo-Roman stage form : *#ˈad̪d͡ʒə#
+*#ˈad͡ʒə# | 492 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
+Old French I stage form : *#ˈad͡ʒə#
+*#ˈaʒə# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#ˈaʒə#
+Middle French stage form : *#ˈaʒə#
+*#ˈaʒə̯# | 702 : ə > ə̯ / __ #
+*#ˈaːʒə̯# | 708 : [+lo] > [+long] / __ ʒ ə̯ #
+*#ˈaːʒ# | 720 : ə̯ > ∅ 
+*#aːʒ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#aʒ# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#aʒ#

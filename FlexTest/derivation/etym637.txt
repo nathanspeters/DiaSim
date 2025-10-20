@@ -1,0 +1,33 @@
+Derivation file for run 'FlexTest'; etymon number :637:
+#mˈɑkulɑm# >>> *#mɑj# ( GOLD : #mɑj#) :
+m ˈɑ k u l ɑ m 
+*#mˈɑkʊlɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈɑklɑm# | 34 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#mˈɑklɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#mˈɑklɑ#
+*#mˈɑːklɑ# | 108 : [+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
+Early Gallo-Roman stage form : *#mˈɑːklɑ#
+*#mˈɑːxlɑ# | 113 : [+hi,+back,-cont] > [+cont,0delrel] / [-cons] __ [+cor,+cons]
+*#mˈɑxlɑ# | 148 : [+syl] > [-long,-splng] / __ [-syl] [+cons]
+*#mˈaxla# | 193 : [+lo] > [+front,-back] 
+*#mˈaçla# | 202 : [+back,+hi,+cont,-son] > [-back,+front] / __ [+cor]
+*#mˈaçʎa# | 209 : [+lat] > ʎ / [+hi,+front,+cons] __ 
+Middle Gallo-Roman stage form : *#mˈaçʎa#
+*#mˈaʎa# | 238 : [+hi,+front,-lat,-syl] > ∅ / __ ʎ
+*#mˈaːʎa# | 354 : [+prim] > [+long] / __ [+cons] [+syl]
+*#mˈaʎa# | 358 : [-hi,+tense,+syl] > [-long,-splng] / __ ʎ
+*#mˈaːʎa# | 398 : [+prim] > [+long] / __ [+cons] [+syl]
+*#mˈaʎa# | 402 : [-hi,+tense,+syl] > [-long,-splng] / __ ʎ
+Later Gallo-Roman stage form : *#mˈaʎa#
+*#mˈaʎə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#mˈaʎə#
+Old French II stage form : *#mˈaʎə#
+Middle French stage form : *#mˈaʎə#
+*#mˈaːʎə# | 698 : [+lo] > [+long] / __ ʎ ə #
+*#mˈaːʎə̯# | 702 : ə > ə̯ / __ #
+*#mˈɑːʎə̯# | 703 : [+lo,+long,+syl] > [+back,-front] 
+*#mˈɑːʎ# | 720 : ə̯ > ∅ 
+*#mɑːʎ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#mɑʎ# | 738 : [+syl,+long] > [-long,-splng] 
+*#mɑj# | 745 : ʎ > j 
+Final form : *#mɑj#

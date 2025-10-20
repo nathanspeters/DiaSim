@@ -1,0 +1,42 @@
+Derivation file for run 'FlexTest'; etymon number :1333:
+#wˈet̪ulus# >>> *#vjø# ( GOLD : #vjø#) :
+w ˈe t̪ u l u s 
+*#ɣʷˈet̪ulus# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˈɛt̪ʊlʊs# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ɣʷˈɛt̪lʊs# | 34 : {ʊ;o} > {∅;∅} / [+prim] ( [-syl] )* [-cont] __ [+lat] [+syl] ( [-syl] ) #
+*#βʷˈɛt̪lʊs# | 50 : ɣʷ > βʷ 
+*#βʷˈɛt̪los# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#βʷˈɛklos# | 71 : t̪ > k / __ [+lat]
+Late Latin stage form : *#βʷˈɛklos#
+*#βʷˈɛːklos# | 108 : [+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
+Early Gallo-Roman stage form : *#βʷˈɛːklos#
+*#βʷˈɛːxlos# | 113 : [+hi,+back,-cont] > [+cont,0delrel] / [-cons] __ [+cor,+cons]
+*#βʷˈɛxlos# | 148 : [+syl] > [-long,-splng] / __ [-syl] [+cons]
+*#βˈɛxlos# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+*#βˈɛçlos# | 202 : [+back,+hi,+cont,-son] > [-back,+front] / __ [+cor]
+*#βˈɛçʎos# | 209 : [+lat] > ʎ / [+hi,+front,+cons] __ 
+*#βˈie̯çʎos# | 225 : {ˈɛ;ˈɔ} > {ˈi e̯;ˈu o̯} / __ [+cons,+hi,+front]
+Middle Gallo-Roman stage form : *#βˈie̯çʎos#
+*#βˈie̯ʎos# | 238 : [+hi,+front,-lat,-syl] > ∅ / __ ʎ
+*#βˈie̯ʎəs# | 261 : [-stres,-lo,+syl] > ə / __ [-syl]
+*#βˈie̯ʎə̯s# | 269 : ə > ə̯ 
+*#βˈie̯ʎs# | 294 : ə̯ > ∅ 
+*#βˈie̯ʎsʲ# | 323 : [+cor,+ant,-lat] > [+hi,+front] / [+hi,+front,+cons] __ 
+*#βˈie̯ʎjs# | 382 : {t̪ʲ;d̪ʲ;sʲ;zʲ;n̪ʲ;d͡zʲ;d͡ʒʲ;t͡ʃʲ} > {j t̪;j d̪;j s;j z;j n̪;j d͡z;j d͡ʒ;j t͡ʃ} 
+*#βˈie̯ʎs# | 384 : j > ∅ / [+cons] __ [+cons]
+*#βˈie̯ʎt͡sʲ# | 390 : s > t͡sʲ / [+cons,+son,+hi,+front] __ #
+*#vˈie̯ʎt͡sʲ# | 437 : β > v 
+Later Gallo-Roman stage form : *#vˈie̯ʎt͡sʲ#
+*#vˈie̯ɫt͡sʲ# | 504 : [+lat] > ɫ / __ [+cons]
+Old French I stage form : *#vˈie̯ɫt͡sʲ#
+*#vˈie̯wt͡sʲ# | 574 : [+lat,+back] > w 
+*#vjˈewt͡sʲ# | 590 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+*#vjˈøwt͡sʲ# | 595 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+*#vjˈøt͡sʲ# | 603 : w > ∅ / [+round,+front,-hi,+syl] __ 
+*#vjˈøsʲ# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#vjˈøsʲ#
+*#vjˈøs# | 657 : [+ant,+front] > [-front,-hi] 
+Middle French stage form : *#vjˈøs#
+*#vjˈø# | 718 : [-son] > ∅ / __ #
+*#vjø# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#vjø#

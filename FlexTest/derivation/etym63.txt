@@ -1,0 +1,26 @@
+Derivation file for run 'FlexTest'; etymon number :63:
+#ˌɑprˈiːlem# >>> *#avʁil# ( GOLD : #avʁil#) :
+ˌɑ p r ˈiː l e m 
+*#ˌɑprˈiːlɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑprˈilɛm# | 57 : [+syl,+long] > [-long,-splng] 
+*#ˌɑprˈilɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɑprˈilɛ#
+*#ˌɑprˈiːlɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#ˌɑprˈiːlɛ#
+*#ˌaprˈiːlɛ# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#ˌaprˈiːlɛ#
+*#ˌaprˈiːlə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#ˌaprˈiːlə̯# | 269 : ə > ə̯ 
+*#ˌaprˈiːl# | 294 : ə̯ > ∅ 
+*#ˌabrˈiːl# | 347 : [-voi,-delrel,+ant] > [+voi] / [-cons] __ [+cor,+son,-nas]
+*#ˌaβrˈiːl# | 372 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [+son,-nas,-lat]
+*#ˌavrˈiːl# | 437 : β > v 
+Later Gallo-Roman stage form : *#ˌavrˈiːl#
+*#ˌavrˈil# | 452 : [+syl] > [-long,-splng] 
+Old French I stage form : *#ˌavrˈil#
+Old French II stage form : *#ˌavrˈil#
+Middle French stage form : *#ˌavrˈil#
+*#ˌavʀˈil# | 735 : r > ʀ 
+*#avʀil# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#avʁil# | 744 : ʀ > ʁ 
+Final form : *#avʁil#

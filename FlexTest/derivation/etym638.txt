@@ -1,0 +1,38 @@
+Derivation file for run 'FlexTest'; etymon number :638:
+#mˌɑlehˈɑbit̪um# >>> *#majɛd̪# ( GOLD : #malad̪#) :
+m ˌɑ l e h ˈɑ b i t̪ u m 
+*#mˌɑlɛhˈɑbɪt̪ʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑlɛˈɑbɪt̪ʊm# | 16 : h > ∅ / @ __ 
+*#mˌɑljˈɑbɪt̪ʊm# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#mˌɑlʝˈɑbɪt̪ʊm# | 29 : j > ʝ / __ [+syl]
+*#mˌɑlʝˈɑβɪt̪ʊm# | 51 : b > β / [+syl] __ [+son]
+*#mˌɑlʝˈɑβet̪om# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#mˌɑlʝˈɑβet̪o# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#mˌɑlʝˈɑβet̪o#
+*#mˌɑʎˈɑβet̪o# | 91 : l ʝ > ʎ 
+*#mˌɑʎˈɑβə̯t̪o# | 93 : e > ə̯ / [-round] [+lab] __ [+distr,-son] [-lo]
+*#mˌɑʎˈɑːβə̯t̪o# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#mˌɑʎˈɑːβə̯t̪o#
+*#mˌaʎˈaːβə̯t̪o# | 193 : [+lo] > [+front,-back] 
+*#mˌaʎˈɛːβə̯t̪o# | 235 : ˈaː > ˈɛː / [+cons,+front] __ [+cons,-front,-nas]
+*#mˌaʎˈie̯βə̯t̪o# | 237 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+Middle Gallo-Roman stage form : *#mˌaʎˈie̯βə̯t̪o#
+*#mˌaʎˈie̯βə̯t̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#mˌaʎˈie̯βə̯t̪ə̯# | 269 : ə > ə̯ 
+*#mˌaʎˈie̯βə̯t̪ə# | 288 : ə̯ > ə / ə̯ ( [-syl] )* __ #
+*#mˌaʎˈie̯βt̪ə# | 294 : ə̯ > ∅ 
+*#mˌaʎˈie̯βd̪ə# | 304 : [+cor,+ant] > [+voi] / [+lab,+voi,-hi,+cons,-nas] __ [+voi]
+*#mˌaʎˈie̯d̪d̪ə# | 327 : [+lab,-nas,-round,+cons] > d̪ / __ [-cont,+cor,+voi]
+Later Gallo-Roman stage form : *#mˌaʎˈie̯d̪d̪ə#
+*#mˌaʎˈie̯d̪ə# | 492 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
+Old French I stage form : *#mˌaʎˈie̯d̪ə#
+*#mˌaʎjˈed̪ə# | 590 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+Old French II stage form : *#mˌaʎjˈed̪ə#
+*#mˌaʎˈed̪ə# | 656 : j > ∅ / [+front,+cons] __ [+front,-hi,-lo,-round,+syl,-nas]
+Middle French stage form : *#mˌaʎˈed̪ə#
+*#mˌaʎˈɛd̪ə# | 699 : [+tense,-hi,-lo,-round,+stres] > [-tense,-cons,-lat,+cont,0delrel] / __ [+cons] [-cons,-back,-front]
+*#mˌaʎˈɛd̪ə̯# | 702 : ə > ə̯ / __ #
+*#mˌaʎˈɛd̪# | 720 : ə̯ > ∅ 
+*#maʎɛd̪# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#majɛd̪# | 745 : ʎ > j 
+Final form : *#majɛd̪#

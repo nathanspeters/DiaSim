@@ -1,0 +1,40 @@
+Derivation file for run 'FlexTest'; etymon number :944:
+#pˌort̪ɑt̪ˈoːrem# >>> *#pɔʁt̪œʁ# ( GOLD : #pɔʁt̪œʁ#) :
+p ˌo r t̪ ɑ t̪ ˈoː r e m 
+*#pˌɔrt̪ɑt̪ˈoːrɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#pˌɔrt̪ɑt̪ˈorɛm# | 57 : [+syl,+long] > [-long,-splng] 
+*#pˌɔrt̪ɑt̪ˈorɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˌɔrt̪ɑt̪ˈorɛ#
+*#pˌɔrt̪ɑt̪ˈoːrɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#pˌɔrt̪ɑt̪ˈoːrɛ#
+*#pˌɔrt̪at̪ˈoːrɛ# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#pˌɔrt̪at̪ˈoːrɛ#
+*#pˌɔrt̪at̪ˈoːrə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#pˌɔrt̪at̪ˈoːrə̯# | 269 : ə > ə̯ 
+*#pˌɔrt̪at̪ˈoːr# | 294 : ə̯ > ∅ 
+*#pˌɔrt̪ad̪ˈoːr# | 346 : [-voi] > [+voi] / [-cons] __ [-cons]
+*#pˌɔrt̪aðˈoːr# | 371 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [-cons]
+*#pˌɔrt̪aðˈowr# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#pˌort̪aðˈowr# | 425 : ˌɔ > ˌo 
+Later Gallo-Roman stage form : *#pˌort̪aðˈowr#
+*#pˌort̪əðˈowr# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#pˌɔrt̪əðˈowr# | 530 : ˌo > ˌɔ / __ r [+ant,-lab,-cont] [+syl]
+Old French I stage form : *#pˌɔrt̪əðˈowr#
+*#pˌɔrt̪əðˈewr# | 551 : ˈo > ˈe / __ w
+*#pˌɔrt̪əˈewr# | 594 : {θ;ð} > {∅;∅} 
+*#pˌɔrt̪əˈøwr# | 595 : [-hi,-lo,+tense,+syl] > [+round,+lab] / __ w
+*#pˌɔrt̪əˈør# | 603 : w > ∅ / [+round,+front,-hi,+syl] __ 
+Old French II stage form : *#pˌɔrt̪əˈør#
+*#pˌɔrt̪ə̯ˈør# | 641 : ə > ə̯ / __ [-cons]
+Middle French stage form : *#pˌɔrt̪ə̯ˈør#
+*#pˌɔrt̪ə̯ˈœr# | 694 : [-hi,-lo,+syl,+front,+round] > [-tense,-cons,-lat,+cont,0delrel] / __ r #
+*#pˌɔrt̪ə̯ˈœːr# | 696 : [+stres] > [+long] / ə̯ __ 
+*#pˌɔrt̪ˈœːr# | 697 : ə̯ > ∅ / __ [-cons]
+*#pˌɔrt̪ˈœːɹ# | 711 : r > ɹ / [-cons] __ #
+*#pˌɔɹt̪ˈœːɹ# | 712 : r > ɹ / [-cons] __ [+cons]
+*#pˌɔrt̪ˈœːr# | 733 : ɹ > r 
+*#pˌɔʀt̪ˈœːʀ# | 735 : r > ʀ 
+*#pɔʀt̪œːʀ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#pɔʀt̪œʀ# | 738 : [+syl,+long] > [-long,-splng] 
+*#pɔʁt̪œʁ# | 744 : ʀ > ʁ 
+Final form : *#pɔʁt̪œʁ#

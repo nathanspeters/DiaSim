@@ -1,0 +1,28 @@
+Derivation file for run 'FlexTest'; etymon number :56:
+#ˌɑn̪imɑm# >>> *#om# ( GOLD : #om#) :
+ˌɑ n̪ i m ɑ m 
+*#ˌɑn̪ɪmɑm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑn̪emɑm# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑn̪emɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɑn̪emɑ#
+Early Gallo-Roman stage form : *#ˌɑn̪emɑ#
+*#ˌan̪ema# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#ˌan̪ema#
+*#ˌan̪əma# | 257 : [-stres,-lo] > ə / __ [-syl] ( [-syl] )* [+syl] ( [-syl] )* #
+*#ˌaɾəma# | 268 : [+cor,+son,-hi] [+syl,-stres] > ɾ ə/ [+syl] __ [+cons,+cont,-cor] [+son,-lat,-hi]
+*#ˌaɾə̯ma# | 269 : ə > ə̯ 
+*#ˌalə̯ma# | 271 : ɾ > l / __ ə̯ [+cons,+voi]
+*#ˌalma# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#ˌalma#
+*#ˌalmə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#ˌaɫmə# | 504 : [+lat] > ɫ / __ [+cons]
+Old French I stage form : *#ˌaɫmə#
+*#ˌawmə# | 574 : [+lat,+back] > w 
+Old French II stage form : *#ˌawmə#
+*#ˌoːmə# | 654 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+Middle French stage form : *#ˌoːmə#
+*#ˌoːmə̯# | 702 : ə > ə̯ / __ #
+*#ˌoːm# | 720 : ə̯ > ∅ 
+*#oːm# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#om# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#om#

@@ -1,0 +1,32 @@
+Derivation file for run 'FlexTest'; etymon number :1127:
+#skˈort̪eɑ# >>> *#ekɔʁs# ( GOLD : #ekɔʁs#) :
+s k ˈo r t̪ e ɑ 
+*#skˈɔrt̪ɛɑ# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɪskˈɔrt̪ɛɑ# | 17 : ∅ > ˌɪ / # __ s [+cons]
+*#ˌɪskˈɔrt̪jɑ# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#ˌɪskˈɔrt̪ʝɑ# | 29 : j > ʝ / __ [+syl]
+*#ˌeskˈɔrt̪ʝɑ# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌeskˈɔrt͡sʲʝɑ# | 76 : {t̪;d̪} > {t͡sʲ;ɟ} / __ [+hi,+front,-syl,+cont]
+Late Latin stage form : *#ˌeskˈɔrt͡sʲʝɑ#
+*#ˌeskˈɔrt͡sʲɑ# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+Early Gallo-Roman stage form : *#ˌeskˈɔrt͡sʲɑ#
+*#ˌeskˈɔrt͡sʲa# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#ˌeskˈɔrt͡sʲa#
+Later Gallo-Roman stage form : *#ˌeskˈɔrt͡sʲa#
+*#ˌeskˈɔrt͡sʲə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#ˌeskˈɔrt͡sʲə#
+*#ˌexkˈɔrt͡sʲə# | 587 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
+*#ˌexkˈɔrsʲə# | 627 : [+delrel] > [+cont,0delrel] 
+*#ˌeːkˈɔrsʲə# | 633 : [+syl] x > [+long] ∅/ __ [+cons]
+*#ˌekˈɔrsʲə# | 635 : ˌeː > ˌe 
+Old French II stage form : *#ˌekˈɔrsʲə#
+*#ˌekˈɔrsə# | 657 : [+ant,+front] > [-front,-hi] 
+Middle French stage form : *#ˌekˈɔrsə#
+*#ˌekˈɔrsə̯# | 702 : ə > ə̯ / __ #
+*#ˌekˈɔɹsə̯# | 712 : r > ɹ / [-cons] __ [+cons]
+*#ˌekˈɔɹs# | 720 : ə̯ > ∅ 
+*#ˌekˈɔrs# | 733 : ɹ > r 
+*#ˌekˈɔʀs# | 735 : r > ʀ 
+*#ekɔʀs# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#ekɔʁs# | 744 : ʀ > ʁ 
+Final form : *#ekɔʁs#

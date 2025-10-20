@@ -1,0 +1,16 @@
+Derivation file for run 'FlexTest'; etymon number :950:
+#prˌɑe̯# >>> *#pʁɛ# ( GOLD : #pʁe#) :
+p r ˌɑ e̯ 
+*#prˌae̯# | 3 : [+lo] > [+front,-back] / __ e̯
+*#prˌɛ# | 58 : {a e̯;ˌa e̯;ˈa e̯} > {ɛ;ˌɛ;ˈɛ} 
+Late Latin stage form : *#prˌɛ#
+Early Gallo-Roman stage form : *#prˌɛ#
+Middle Gallo-Roman stage form : *#prˌɛ#
+Later Gallo-Roman stage form : *#prˌɛ#
+Old French I stage form : *#prˌɛ#
+Old French II stage form : *#prˌɛ#
+Middle French stage form : *#prˌɛ#
+*#pʀˌɛ# | 735 : r > ʀ 
+*#pʀɛ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#pʁɛ# | 744 : ʀ > ʁ 
+Final form : *#pʁɛ#

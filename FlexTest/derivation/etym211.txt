@@ -1,0 +1,19 @@
+Derivation file for run 'FlexTest'; etymon number :211:
+#ˌeɡoː# >>> *#ɛ# ( GOLD : #ʒə#) :
+ˌe ɡ oː 
+*#ˌɛɡoː# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɛɡo# | 57 : [+syl,+long] > [-long,-splng] 
+*#ˌɛɣo# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#ˌɛɣo#
+Early Gallo-Roman stage form : *#ˌɛɣo#
+*#ˌɛo# | 119 : ɣ > ∅ / __ [+tense,+round,+syl]
+Middle Gallo-Roman stage form : *#ˌɛo#
+*#ˌɛə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#ˌɛə̯# | 269 : ə > ə̯ 
+*#ˌɛ# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#ˌɛ#
+Old French I stage form : *#ˌɛ#
+Old French II stage form : *#ˌɛ#
+Middle French stage form : *#ˌɛ#
+*#ɛ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ɛ#

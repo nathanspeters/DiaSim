@@ -1,0 +1,24 @@
+Derivation file for run 'FlexTest'; etymon number :1046:
+#sˈɑɡmɑm# >>> *#sɔm# ( GOLD : #sɔm#) :
+s ˈɑ ɡ m ɑ m 
+*#sˈɑɣmɑm# | 64 : ɡ > ɣ / __ m
+*#sˈɑwmɑm# | 65 : ɣ > w / __ m
+*#sˈɑwmɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˈɑwmɑ#
+Early Gallo-Roman stage form : *#sˈɑwmɑ#
+*#sˈawma# | 193 : [+lo] > [+front,-back] 
+*#sˈɔwma# | 231 : {a;ˌa;ˈa} > {ɔ;ˌɔ;ˈɔ} / __ w
+Middle Gallo-Roman stage form : *#sˈɔwma#
+*#sˈɔma# | 427 : w > ∅ / [+round,-tense] __ [-syl,-cor]
+*#sˈũma# | 430 : [+syl,+back,+round] > [+nas,+hi,+tense,-cons,-lat,+cont,0delrel] / __ [+nas,+cons]
+Later Gallo-Roman stage form : *#sˈũma#
+*#sˈũmə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#sˈũmə#
+Old French II stage form : *#sˈũmə#
+Middle French stage form : *#sˈũmə#
+*#sˈũmə̯# | 702 : ə > ə̯ / __ #
+*#sˈũm# | 720 : ə̯ > ∅ 
+*#sũm# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#sɔ̃m# | 739 : ũ > ɔ̃ 
+*#sɔm# | 741 : [+syl,+nas] > [-nas] / __ [+nas,+cons]
+Final form : *#sɔm#

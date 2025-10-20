@@ -1,0 +1,28 @@
+Derivation file for run 'FlexTest'; etymon number :1366:
+#wˈiːwum# >>> *#vif# ( GOLD : #vif#) :
+w ˈiː w u m 
+*#ɣʷˈiːɣʷum# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˈiːɣʷʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βʷˈiːβʷʊm# | 50 : ɣʷ > βʷ 
+*#βʷˈiβʷʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#βʷˈiβʷom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#βʷˈiβʷo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#βʷˈiβʷo#
+*#βʷˈiːβʷo# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#βʷˈiːβʷo#
+*#βˈiːβo# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+Middle Gallo-Roman stage form : *#βˈiːβo#
+*#βˈiːβə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#βˈiːβə̯# | 269 : ə > ə̯ 
+*#βˈiːβ# | 294 : ə̯ > ∅ 
+*#vˈiːv# | 437 : β > v 
+Later Gallo-Roman stage form : *#vˈiːv#
+*#vˈiːf# | 448 : [-son] > [-voi] / __ #
+*#vˈif# | 452 : [+syl] > [-long,-splng] 
+Old French I stage form : *#vˈif#
+Old French II stage form : *#vˈif#
+Middle French stage form : *#vˈif#
+*#vˈifə̯# | 716 : ∅ > ə̯ / f __ #
+*#vˈif# | 720 : ə̯ > ∅ 
+*#vif# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#vif#

@@ -1,0 +1,17 @@
+Derivation file for run 'FlexTest'; etymon number :1267:
+#t̪ˈuː# >>> *#t̪y# ( GOLD : #t̪y#) :
+t̪ ˈuː 
+*#t̪ˈu# | 57 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#t̪ˈu#
+*#t̪ˈuː# | 105 : [+prim] > [+long] / __ #
+Early Gallo-Roman stage form : *#t̪ˈuː#
+*#t̪ˈʉː# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#t̪ˈʉː#
+Later Gallo-Roman stage form : *#t̪ˈʉː#
+*#t̪ˈʉ# | 452 : [+syl] > [-long,-splng] 
+*#t̪ˈy# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#t̪ˈy#
+Old French II stage form : *#t̪ˈy#
+Middle French stage form : *#t̪ˈy#
+*#t̪y# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#t̪y#

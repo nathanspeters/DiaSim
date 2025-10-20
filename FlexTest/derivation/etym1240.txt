@@ -1,0 +1,23 @@
+Derivation file for run 'FlexTest'; etymon number :1240:
+#t̪ˈost̪um# >>> *#t̪o# ( GOLD : #t̪o#) :
+t̪ ˈo s t̪ u m 
+*#t̪ˈɔst̪ʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#t̪ˈɔst̪om# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#t̪ˈɔst̪o# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#t̪ˈɔst̪o#
+Early Gallo-Roman stage form : *#t̪ˈɔst̪o#
+Middle Gallo-Roman stage form : *#t̪ˈɔst̪o#
+*#t̪ˈɔst̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#t̪ˈɔst̪ə̯# | 269 : ə > ə̯ 
+*#t̪ˈɔst̪# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#t̪ˈɔst̪#
+Old French I stage form : *#t̪ˈɔst̪#
+*#t̪ˈɔxt̪# | 587 : [-distr,+strid,-voi] > x / [-cons] __ [+cons]
+*#t̪ˈɔːt̪# | 633 : [+syl] x > [+long] ∅/ __ [+cons]
+*#t̪ˈoːt̪# | 637 : [-lo,-hi,+back,-tense,+long] > [+tense,-cons,-lat,+cont,0delrel] / __ ( [-syl] ) #
+Old French II stage form : *#t̪ˈoːt̪#
+Middle French stage form : *#t̪ˈoːt̪#
+*#t̪ˈoː# | 718 : [-son] > ∅ / __ #
+*#t̪oː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#t̪o# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#t̪o#

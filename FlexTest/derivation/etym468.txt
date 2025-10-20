@@ -1,0 +1,34 @@
+Derivation file for run 'FlexTest'; etymon number :468:
+#klˈɑd̪ˌeːwon̪# >>> *#klef# ( GOLD : #ɡlɛv#) :
+k l ˈɑ d̪ ˌeː w o n̪ 
+*#klˈɑd̪ˌeːɣʷon̪# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#klˈɑd̪ˌeːɣʷɔn̪# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#klˈɑd̪ˌeːβʷɔn̪# | 50 : ɣʷ > βʷ 
+*#klˈɑd̪ˌeβʷɔn̪# | 57 : [+syl,+long] > [-long,-splng] 
+*#klˈɑd̪ˌeβʷɔ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#klˈɑd̪ˌeβʷɔ#
+*#klˈɑðˌeβʷɔ# | 100 : [-delrel,+voi] > [+cont,0delrel] / [+syl] __ [+son,-nas]
+*#klˈɑːðˌeβʷɔ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#klˈɑːðˌeβʷɔ#
+*#klˈɑːðˌeβɔ# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+*#klˈaːðˌeβɔ# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#klˈaːðˌeβɔ#
+*#klˈaːðˌeβə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#klˈaːðˌeβə̯# | 269 : ə > ə̯ 
+*#klˈaːðˌeβ# | 294 : ə̯ > ∅ 
+*#klˈae̯ðˌeβ# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#klˈae̯ðˌev# | 437 : β > v 
+Later Gallo-Roman stage form : *#klˈae̯ðˌev#
+*#klˈae̯ðˌef# | 448 : [-son] > [-voi] / __ #
+*#klˈeːðˌef# | 453 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
+Old French I stage form : *#klˈeːðˌef#
+*#klˈeðˌef# | 546 : [+syl] > [-long,-splng] 
+*#klˈeˌef# | 594 : {θ;ð} > {∅;∅} 
+Old French II stage form : *#klˈeˌef#
+*#klˌeːf# | 677 : [-lo,-hi,+front,-round,+syl] [-lo,-hi,+front,-round,+syl] > ∅ [+long]
+Middle French stage form : *#klˌeːf#
+*#klˌeːfə̯# | 716 : ∅ > ə̯ / f __ #
+*#klˌeːf# | 720 : ə̯ > ∅ 
+*#kleːf# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#klef# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#klef#

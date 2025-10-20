@@ -1,0 +1,30 @@
+Derivation file for run 'FlexTest'; etymon number :1011:
+#rˌeːɡˈɑːlem# >>> *#ʁwajal# ( GOLD : #ʁwajal#) :
+r ˌeː ɡ ˈɑː l e m 
+*#rˌeːɡˈɑːlɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#rˌeɡˈɑlɛm# | 57 : [+syl,+long] > [-long,-splng] 
+*#rˌeɡˈɑlɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#rˌeɣˈɑlɛ# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#rˌeɣˈɑlɛ#
+*#rˌeɣˈɑːlɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#rˌeɣˈɑːlɛ#
+*#rˌeˈɑːlɛ# | 185 : ɣ > ∅ / [+front,-hi,-lo,+tense] __ ˈɑː
+*#rˌejˈɑːlɛ# | 189 : ∅ > j / ˌe __ [+lo]
+*#rˌejˈaːlɛ# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#rˌejˈaːlɛ#
+*#rˌejˈaːlə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#rˌejˈaːlə̯# | 269 : ə > ə̯ 
+*#rˌejˈaːl# | 294 : ə̯ > ∅ 
+*#rˌejˈal# | 408 : ˈaː > ˈa / [+cont] [-syl,+son] __ l #
+Later Gallo-Roman stage form : *#rˌejˈal#
+Old French I stage form : *#rˌejˈal#
+*#rˌojˈal# | 552 : [+front,+tense,-hi,-lo,+syl,-long] > [+back,-front,+round,+lab] / __ j
+*#rˌujˈal# | 562 : [+round,+tense,+back] > [+hi] 
+*#rwˌɛjˈal# | 612 : {ˌu;ˌɔ} > {w ˌɛ;w ˌɛ} / __ j [+front,+prim]
+Old French II stage form : *#rwˌɛjˈal#
+Middle French stage form : *#rwˌɛjˈal#
+*#ʀwˌɛjˈal# | 735 : r > ʀ 
+*#ʀwɛjal# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#ʀwajal# | 743 : ɛ > a / w __ 
+*#ʁwajal# | 744 : ʀ > ʁ 
+Final form : *#ʁwajal#

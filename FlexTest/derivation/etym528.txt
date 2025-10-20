@@ -1,0 +1,23 @@
+Derivation file for run 'FlexTest'; etymon number :528:
+#kˈuːlum# >>> *#kyl# ( GOLD : #ky#) :
+k ˈuː l u m 
+*#kˈuːlʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈulʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#kˈulom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈulo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈulo#
+*#kˈuːlo# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#kˈuːlo#
+*#kˈʉːlo# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#kˈʉːlo#
+*#kˈʉːlə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#kˈʉːlə̯# | 269 : ə > ə̯ 
+*#kˈʉːl# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#kˈʉːl#
+*#kˈʉl# | 452 : [+syl] > [-long,-splng] 
+*#kˈyl# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#kˈyl#
+Old French II stage form : *#kˈyl#
+Middle French stage form : *#kˈyl#
+*#kyl# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#kyl#

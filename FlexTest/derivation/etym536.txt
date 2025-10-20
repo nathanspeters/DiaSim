@@ -1,0 +1,43 @@
+Derivation file for run 'FlexTest'; etymon number :536:
+#kˈuːpreum# >>> *#kɥivʁ# ( GOLD : #kɥivʁ#) :
+k ˈuː p r e u m 
+*#kˈuːprɛʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#kˈuːprjʊm# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#kˈuːprʝʊm# | 29 : j > ʝ / __ [+syl]
+*#kˈuprʝʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#kˈuprʝom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#kˈuprʝo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#kˈuprʝo#
+*#kˈuːprʝo# | 108 : [+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
+Early Gallo-Roman stage form : *#kˈuːprʝo#
+*#kˈuprʝo# | 148 : [+syl] > [-long,-splng] / __ [-syl] [+cons]
+*#kˈuːprʝo# | 151 : [+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
+*#kˈuːprʲo# | 170 : r ʝ > rʲ 
+*#kˈʉːprʲo# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+*#kˈʉprʲo# | 215 : [+syl] > [-long,-splng] / __ [-syl] [+cons]
+*#kˈʉːprʲo# | 219 : [+prim] > [+long] / __ [-cont] [+cons,+son,-nas]
+Middle Gallo-Roman stage form : *#kˈʉːprʲo#
+*#kˈʉːprʲə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#kˈʉːprʲə̯# | 269 : ə > ə̯ 
+*#kˈʉːprʲ# | 294 : ə̯ > ∅ 
+*#kˈʉːprʲə# | 308 : ∅ > ə / [+cons,-son] [+son,+cons] __ ( [+cons] )* #
+*#kˈʉːjprʲə# | 343 : ∅ > j / [-cons] __ [+cons,-front] ( [+cons,-front] )* rʲ
+*#kˈʉːjbrʲə# | 347 : [-voi,-delrel,+ant] > [+voi] / [-cons] __ [+cor,+son,-nas]
+*#kˈʉjbrʲə# | 349 : [+syl] > [-long,-splng] / __ [-syl] [+cons,-son]
+*#kˈʉːjbrʲə# | 360 : [+prim] > [+long] / __ j ( [+cons] )* [+cor,+hi,+front]
+*#kˈʉːjβrʲə# | 372 : [-delrel,+voi] > [+cont,0delrel] / [-cons] __ [+son,-nas,-lat]
+*#kˈʉːjβrə# | 381 : rʲ > r 
+*#kˈʉjβrə# | 393 : [+syl] > [-long,-splng] / __ [-syl] [+cons,-son]
+*#kˈʉjvrə# | 435 : β > v / [-lo,+front] __ r
+Later Gallo-Roman stage form : *#kˈʉjvrə#
+*#kˈyjvrə# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#kˈyjvrə#
+*#kɥˈivrə# | 616 : [+front,+round,+syl,+hi,βstres,ɣprim] [-round,-syl,-cons] > [-syl,0stres,0prim] [+syl,βstres,ɣprim,+son,0delrel]
+Old French II stage form : *#kɥˈivrə#
+Middle French stage form : *#kɥˈivrə#
+*#kɥˈivrə̯# | 702 : ə > ə̯ / __ #
+*#kɥˈivr# | 720 : ə̯ > ∅ 
+*#kɥˈivʀ# | 735 : r > ʀ 
+*#kɥivʀ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#kɥivʁ# | 744 : ʀ > ʁ 
+Final form : *#kɥivʁ#

@@ -1,0 +1,25 @@
+Derivation file for run 'FlexTest'; etymon number :1058:
+#sˌɑlˈuːt̪em# >>> *#saly# ( GOLD : #saly#) :
+s ˌɑ l ˈuː t̪ e m 
+*#sˌɑlˈuːt̪ɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˌɑlˈut̪ɛm# | 57 : [+syl,+long] > [-long,-splng] 
+*#sˌɑlˈut̪ɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˌɑlˈut̪ɛ#
+*#sˌɑlˈuːt̪ɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#sˌɑlˈuːt̪ɛ#
+*#sˌalˈuːt̪ɛ# | 193 : [+lo] > [+front,-back] 
+*#sˌalˈʉːt̪ɛ# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#sˌalˈʉːt̪ɛ#
+*#sˌalˈʉːt̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#sˌalˈʉːt̪ə̯# | 269 : ə > ə̯ 
+*#sˌalˈʉːt̪# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#sˌalˈʉːt̪#
+*#sˌalˈʉːθ# | 440 : [-delrel] > [+cont,0delrel] / [-cons] __ #
+*#sˌalˈʉθ# | 452 : [+syl] > [-long,-splng] 
+*#sˌalˈyθ# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#sˌalˈyθ#
+*#sˌalˈy# | 594 : {θ;ð} > {∅;∅} 
+Old French II stage form : *#sˌalˈy#
+Middle French stage form : *#sˌalˈy#
+*#saly# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#saly#

@@ -1,0 +1,24 @@
+Derivation file for run 'FlexTest'; etymon number :232:
+#fˈɑɡum# >>> *#fu# ( GOLD : #fu#) :
+f ˈɑ ɡ u m 
+*#fˈɑɡʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈɑɡom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˈɑɡo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#fˈɑɣo# | 85 : [-cont,+hi,+voi] > [+cont,0delrel] / [-cons] __ [+son,-lat,-nas]
+Late Latin stage form : *#fˈɑɣo#
+*#fˈɑːɣo# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#fˈɑːɣo#
+*#fˈɑːo# | 119 : ɣ > ∅ / __ [+tense,+round,+syl]
+*#fˈɑːu# | 186 : o > u / [+prim] __ #
+*#fˈɑːw# | 187 : [+hi,-stres] > [-syl,0stres,0prim] / [+prim] __ #
+*#fˈaːw# | 193 : [+lo] > [+front,-back] 
+*#fˈaw# | 230 : [+syl] > [-long,-splng] / __ w
+*#fˈɔw# | 231 : {a;ˌa;ˈa} > {ɔ;ˌɔ;ˈɔ} / __ w
+Middle Gallo-Roman stage form : *#fˈɔw#
+Later Gallo-Roman stage form : *#fˈɔw#
+Old French I stage form : *#fˈɔw#
+*#fˈu# | 606 : [-hi,-lo,+back,+round] w > [+hi,+tense,-cons,-lat,+cont,0delrel] ∅
+Old French II stage form : *#fˈu#
+Middle French stage form : *#fˈu#
+*#fu# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#fu#

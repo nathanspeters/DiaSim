@@ -1,0 +1,28 @@
+Derivation file for run 'FlexTest'; etymon number :618:
+#lˈokum# >>> *#ljø# ( GOLD : #ljø#) :
+l ˈo k u m 
+*#lˈɔkʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#lˈɔkom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#lˈɔko# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#lˈɔko#
+*#lˈɔːko# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#lˈɔːko#
+*#lˈɔːɡo# | 129 : k > ɡ / [-cons] __ [+syl]
+*#lˈɔːɣo# | 132 : ɡ > ɣ / [-cons] __ [-cons]
+*#lˈuo̯ɣo# | 163 : {ˈɛː;ˈɔː} > {ˈi e̯;ˈu o̯} 
+*#lˈuo̯o# | 179 : ɣ > ∅ / [+round,-cons,-syl] __ [+tense,-stres,+round,+syl]
+*#lˈʉo̯o# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+*#lˈʉo̯w# | 229 : [-lo,-stres] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / [+prim] ( [-cons,-hi] ) __ 
+Middle Gallo-Roman stage form : *#lˈʉo̯w#
+Later Gallo-Roman stage form : *#lˈʉo̯w#
+*#lˈyo̯w# | 506 : [+hi,+round,-back] > [+front] 
+*#lˈye̯w# | 520 : o̯ > e̯ 
+Old French I stage form : *#lˈye̯w#
+*#lˈyø̯w# | 568 : e̯ > ø̯ / [+hi,+round] __ [+son,+back]
+*#lɥˈøw# | 590 : {ˈi e̯;ˌɛ a̯;ˈɛ a̯;ˈy ø̯} > {j ˈe;e̯ ˌa;e̯ ˈa;ɥ ˈø} 
+*#lɥˈø# | 603 : w > ∅ / [+round,+front,-hi,+syl] __ 
+*#ljˈø# | 617 : ɥ > j / __ [+front,+round,-hi]
+Old French II stage form : *#ljˈø#
+Middle French stage form : *#ljˈø#
+*#ljø# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ljø#

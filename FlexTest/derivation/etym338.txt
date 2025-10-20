@@ -1,0 +1,30 @@
+Derivation file for run 'FlexTest'; etymon number :338:
+#hˈeːrem# >>> *#waʁ# ( GOLD : #waʁ#) :
+h ˈeː r e m 
+*#hˈeːrɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#hˈerɛm# | 57 : [+syl,+long] > [-long,-splng] 
+*#hˈerɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#hˈerɛ#
+*#hˈeːrɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#hˈeːrɛ#
+*#ˈeːrɛ# | 137 : h > ∅ 
+Middle Gallo-Roman stage form : *#ˈeːrɛ#
+*#ˈeːrə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#ˈeːrə̯# | 269 : ə > ə̯ 
+*#ˈeːr# | 294 : ə̯ > ∅ 
+*#ˈejr# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+Later Gallo-Roman stage form : *#ˈejr#
+Old French I stage form : *#ˈejr#
+*#ˈojr# | 552 : [+front,+tense,-hi,-lo,+syl,-long] > [+back,-front,+round,+lab] / __ j
+*#ˈoɛ̯r# | 556 : j > ɛ̯ / [+syl,+back,+round] __ r
+*#ˈuɛ̯r# | 562 : [+round,+tense,+back] > [+hi] 
+*#wˈɛr# | 614 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+Old French II stage form : *#wˈɛr#
+Middle French stage form : *#wˈɛr#
+*#wˈɛɹ# | 711 : r > ɹ / [-cons] __ #
+*#wˈɛr# | 733 : ɹ > r 
+*#wˈɛʀ# | 735 : r > ʀ 
+*#wɛʀ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#waʀ# | 743 : ɛ > a / w __ 
+*#waʁ# | 744 : ʀ > ʁ 
+Final form : *#waʁ#

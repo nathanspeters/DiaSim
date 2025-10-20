@@ -1,0 +1,24 @@
+Derivation file for run 'FlexTest'; etymon number :992:
+#pˈuːrɑm# >>> *#pyʁ# ( GOLD : #pyʁ#) :
+p ˈuː r ɑ m 
+*#pˈurɑm# | 57 : [+syl,+long] > [-long,-splng] 
+*#pˈurɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#pˈurɑ#
+*#pˈuːrɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#pˈuːrɑ#
+*#pˈuːra# | 193 : [+lo] > [+front,-back] 
+*#pˈʉːra# | 211 : [+hi,+tense,+round,+syl,-nas] > [-front,-back] 
+Middle Gallo-Roman stage form : *#pˈʉːra#
+Later Gallo-Roman stage form : *#pˈʉːra#
+*#pˈʉːrə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#pˈʉrə# | 452 : [+syl] > [-long,-splng] 
+*#pˈyrə# | 506 : [+hi,+round,-back] > [+front] 
+Old French I stage form : *#pˈyrə#
+Old French II stage form : *#pˈyrə#
+Middle French stage form : *#pˈyrə#
+*#pˈyrə̯# | 702 : ə > ə̯ / __ #
+*#pˈyr# | 720 : ə̯ > ∅ 
+*#pˈyʀ# | 735 : r > ʀ 
+*#pyʀ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#pyʁ# | 744 : ʀ > ʁ 
+Final form : *#pyʁ#

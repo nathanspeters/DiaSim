@@ -1,0 +1,37 @@
+Derivation file for run 'FlexTest'; etymon number :298:
+#frˈiːkt̪iˈoːn̪em# >>> *#fʁisɔ̃# ( GOLD : #fʁisɔ̃#) :
+f r ˈiː k t̪ i ˈoː n̪ e m 
+*#frˈiːkt̪ɪˈoːn̪ɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#frˈiːkt̪jˈoːn̪ɛm# | 24 : [+syl,-long,-stres,-lo] > [+hi,-syl,+tense,0stres,0prim,-cons,-lat,+cont,0delrel] / __ [+syl]
+*#frˈiːkt̪ʝˈoːn̪ɛm# | 29 : j > ʝ / __ [+syl]
+*#frˈikt̪ʝˈon̪ɛm# | 57 : [+syl,+long] > [-long,-splng] 
+*#frˈixt̪ʝˈon̪ɛm# | 62 : k > x / [-cons] __ [+cor,-voi]
+*#frˈixt̪ʝˈon̪ɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#frˈixt͡sʲʝˈon̪ɛ# | 76 : {t̪;d̪} > {t͡sʲ;ɟ} / __ [+hi,+front,-syl,+cont]
+Late Latin stage form : *#frˈixt͡sʲʝˈon̪ɛ#
+*#frˈixt͡sʲˈon̪ɛ# | 87 : ʝ > ∅ / [-cont,+hi,+front] __ 
+*#frˈixt͡sʲˈoːn̪ɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#frˈixt͡sʲˈoːn̪ɛ#
+*#frˈixt͡sʲˈũːn̪ɛ# | 162 : [+round,-hi] > [+tense,+hi,+nas,-cons,-lat,+cont,0delrel] / __ [+nas]
+*#frˈiçt͡sʲˈũːn̪ɛ# | 202 : [+back,+hi,+cont,-son] > [-back,+front] / __ [+cor]
+*#frˈit̪t͡sʲˈũːn̪ɛ# | 204 : ç > t̪ / __ t͡sʲ
+Middle Gallo-Roman stage form : *#frˈit̪t͡sʲˈũːn̪ɛ#
+*#frˈit̪t͡sʲˈũːn̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#frˈit̪t͡sʲˈũːn̪ə̯# | 269 : ə > ə̯ 
+*#frˈit̪t͡sʲˈũːn̪# | 294 : ə̯ > ∅ 
+*#frˈit̪ʲt͡sʲˈũːn̪# | 387 : [+cor] > [+hi,+front] / [+front,+hi] __ [+hi,+front]
+Later Gallo-Roman stage form : *#frˈit̪ʲt͡sʲˈũːn̪#
+*#frˈit̪ʲt͡sʲˈũn̪# | 452 : [+syl] > [-long,-splng] 
+*#frˈit͡sʲˈũn̪# | 492 : [+cor,-delrel] > ∅ / __ [+cor,-cont]
+Old French I stage form : *#frˈit͡sʲˈũn̪#
+*#frˈisʲˈũn̪# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#frˈisʲˈũn̪#
+*#frˈisˈũn̪# | 657 : [+ant,+front] > [-front,-hi] 
+*#frˈisˈũː# | 664 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+Middle French stage form : *#frˈisˈũː#
+*#fʀˈisˈũː# | 735 : r > ʀ 
+*#fʀisũː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#fʀisũ# | 738 : [+syl,+long] > [-long,-splng] 
+*#fʀisɔ̃# | 739 : ũ > ɔ̃ 
+*#fʁisɔ̃# | 744 : ʀ > ʁ 
+Final form : *#fʁisɔ̃#

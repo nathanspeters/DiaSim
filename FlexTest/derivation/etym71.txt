@@ -1,0 +1,25 @@
+Derivation file for run 'FlexTest'; etymon number :71:
+#ˈɑrkɑm# >>> *#aʁʃ# ( GOLD : #aʁʃ#) :
+ˈɑ r k ɑ m 
+*#ˈɑrkɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˈɑrkɑ#
+Early Gallo-Roman stage form : *#ˈɑrkɑ#
+*#ˈarka# | 193 : [+lo] > [+front,-back] 
+*#ˈarkʲa# | 228 : [+hi,+back,+cons] > [+front] / __ [+front,+syl]
+Middle Gallo-Roman stage form : *#ˈarkʲa#
+*#ˈarca# | 240 : [+back,+front] > [-back] 
+*#ˈart͡ʃa# | 249 : [+hi,+front,-cont,-ant] > [+delrel,+cor,-hi,+strid,+distr,-son,-cont,+cons,0tense] 
+Later Gallo-Roman stage form : *#ˈart͡ʃa#
+*#ˈart͡ʃə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+Old French I stage form : *#ˈart͡ʃə#
+*#ˈarʃə# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#ˈarʃə#
+Middle French stage form : *#ˈarʃə#
+*#ˈarʃə̯# | 702 : ə > ə̯ / __ #
+*#ˈaɹʃə̯# | 712 : r > ɹ / [-cons] __ [+cons]
+*#ˈaɹʃ# | 720 : ə̯ > ∅ 
+*#ˈarʃ# | 733 : ɹ > r 
+*#ˈaʀʃ# | 735 : r > ʀ 
+*#aʀʃ# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#aʁʃ# | 744 : ʀ > ʁ 
+Final form : *#aʁʃ#

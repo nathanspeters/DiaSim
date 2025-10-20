@@ -1,0 +1,31 @@
+Derivation file for run 'FlexTest'; etymon number :45:
+#ˌɑmˈiːkum# >>> *#ami# ( GOLD : #ami#) :
+ˌɑ m ˈiː k u m 
+*#ˌɑmˈiːkʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑmˈikʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#ˌɑmˈikom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑmˈiko# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɑmˈiko#
+*#ˌɑmˈiːko# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#ˌɑmˈiːko#
+*#ˌɑmˈiːɡo# | 129 : k > ɡ / [-cons] __ [+syl]
+*#ˌɑmˈiːɣo# | 132 : ɡ > ɣ / [-cons] __ [-cons]
+*#ˌamˈiːɣo# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#ˌamˈiːɣo#
+*#ˌamˈiːɣə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#ˌamˈiːɣə̯# | 269 : ə > ə̯ 
+*#ˌamˈiːɣ# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#ˌamˈiːɣ#
+*#ˌamˈiːx# | 448 : [-son] > [-voi] / __ #
+*#ˌamˈix# | 452 : [+syl] > [-long,-splng] 
+*#ˌamˈiç# | 462 : [+back,-son,-round,+cont] > [-back,+front] 
+*#ˌamˈiʝ# | 463 : ç > ʝ 
+*#ˌamˈij# | 469 : ʝ > j 
+*#ˌamˈi# | 470 : j > ∅ / [+hi,+front,+tense] __ 
+*#ˌãmˈi# | 508 : [+lo] > [+nas] / __ [+nas,-syl]
+Old French I stage form : *#ˌãmˈi#
+Old French II stage form : *#ˌãmˈi#
+Middle French stage form : *#ˌãmˈi#
+*#ˌamˈi# | 727 : [+front,-round,+syl,+nas] > [-nas] / __ [+cons,+nas] [-cons]
+*#ami# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#ami#

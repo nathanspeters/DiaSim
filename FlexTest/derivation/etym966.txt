@@ -1,0 +1,24 @@
+Derivation file for run 'FlexTest'; etymon number :966:
+#prˈiːmɑm# >>> *#pʁim# ( GOLD : #pʁim#) :
+p r ˈiː m ɑ m 
+*#prˈimɑm# | 57 : [+syl,+long] > [-long,-splng] 
+*#prˈimɑ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#prˈimɑ#
+*#prˈiːmɑ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#prˈiːmɑ#
+*#prˈiːma# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#prˈiːma#
+Later Gallo-Roman stage form : *#prˈiːma#
+*#prˈiːmə# | 443 : a > ə / [+syl] ( [-syl] )* __ 
+*#prˈimə# | 452 : [+syl] > [-long,-splng] 
+Old French I stage form : *#prˈimə#
+*#prˈĩmə# | 620 : [+syl] > [+nas] / __ [+nas,+cons]
+Old French II stage form : *#prˈĩmə#
+*#prˈimə# | 649 : [+nas,+front,+hi,+syl] > [-nas] / __ [+nas,+cons] [-cons]
+Middle French stage form : *#prˈimə#
+*#prˈimə̯# | 702 : ə > ə̯ / __ #
+*#prˈim# | 720 : ə̯ > ∅ 
+*#pʀˈim# | 735 : r > ʀ 
+*#pʀim# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#pʁim# | 744 : ʀ > ʁ 
+Final form : *#pʁim#

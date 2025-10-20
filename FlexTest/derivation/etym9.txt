@@ -1,0 +1,34 @@
+Derivation file for run 'FlexTest'; etymon number :9:
+#ˌɑd̪wokˈɑːt̪um# >>> *#avɔe# ( GOLD : #avwe#) :
+ˌɑ d̪ w o k ˈɑː t̪ u m 
+*#ˌɑd̪ɣʷokˈɑːt̪um# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ˌɑd̪ɣʷɔkˈɑːt̪ʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑd̪βʷɔkˈɑːt̪ʊm# | 50 : ɣʷ > βʷ 
+*#ˌɑd̪βʷɔkˈɑt̪ʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#ˌɑd̪βʷɔkˈɑt̪om# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#ˌɑd̪βʷɔkˈɑt̪o# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#ˌɑd̪βʷɔkˈɑt̪o#
+*#ˌɑd̪βʷɔkˈɑːt̪o# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#ˌɑd̪βʷɔkˈɑːt̪o#
+*#ˌɑd̪βʷɔɡˈɑːt̪o# | 129 : k > ɡ / [-cons] __ [+syl]
+*#ˌɑd̪βʷɔɣˈɑːt̪o# | 132 : ɡ > ɣ / [-cons] __ [-cons]
+*#ˌɑd̪βɔɣˈɑːt̪o# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+*#ˌɑd̪βɔˈɑːt̪o# | 178 : ɣ > ∅ / [+round,-cons] __ [+lo]
+*#ˌad̪βɔˈaːt̪o# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#ˌad̪βɔˈaːt̪o#
+*#ˌaðβɔˈaːt̪o# | 244 : d̪ > ð / __ [+cont,+lab,+cons]
+*#ˌaðβɔˈaːt̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#ˌaðβɔˈaːt̪ə̯# | 269 : ə > ə̯ 
+*#ˌaðβɔˈaːt̪# | 294 : ə̯ > ∅ 
+*#ˌaðβɔˈae̯t̪# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#ˌaðvɔˈae̯t̪# | 437 : β > v 
+Later Gallo-Roman stage form : *#ˌaðvɔˈae̯t̪#
+*#ˌaðvɔˈae̯θ# | 440 : [-delrel] > [+cont,0delrel] / [-cons] __ #
+*#ˌaðvɔˈeːθ# | 453 : {a e̯;ˌa e̯;ˈa e̯} > {eː;ˌeː;ˈeː} 
+Old French I stage form : *#ˌaðvɔˈeːθ#
+*#ˌaðvɔˈeθ# | 546 : [+syl] > [-long,-splng] 
+*#ˌavɔˈe# | 594 : {θ;ð} > {∅;∅} 
+Old French II stage form : *#ˌavɔˈe#
+Middle French stage form : *#ˌavɔˈe#
+*#avɔe# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#avɔe#

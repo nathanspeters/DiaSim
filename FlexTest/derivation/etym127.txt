@@ -1,0 +1,25 @@
+Derivation file for run 'FlexTest'; etymon number :127:
+#blˈɑn̪koːs# >>> *#blɑ̃# ( GOLD : #blɑ̃#) :
+b l ˈɑ n̪ k oː s 
+*#blˈɑŋkoːs# | 0 : n̪ > ŋ / __ [+hi,+back,-cont]
+*#blˈɑŋkos# | 57 : [+syl,+long] > [-long,-splng] 
+Late Latin stage form : *#blˈɑŋkos#
+Early Gallo-Roman stage form : *#blˈɑŋkos#
+*#blˈaŋkos# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#blˈaŋkos#
+*#blˈaŋkəs# | 261 : [-stres,-lo,+syl] > ə / __ [-syl]
+*#blˈaŋkə̯s# | 269 : ə > ə̯ 
+*#blˈaŋks# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#blˈaŋks#
+*#blˈaŋs# | 442 : k > ∅ / __ s #
+*#blˈãŋs# | 508 : [+lo] > [+nas] / __ [+nas,-syl]
+*#blˈãn̪s# | 532 : ŋ > n̪ / __ [-back]
+Old French I stage form : *#blˈãn̪s#
+Old French II stage form : *#blˈãn̪s#
+*#blˈãːs# | 663 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ [+cons]
+Middle French stage form : *#blˈãːs#
+*#blˈɑ̃ːs# | 703 : [+lo,+long,+syl] > [+back,-front] 
+*#blˈɑ̃ː# | 718 : [-son] > ∅ / __ #
+*#blɑ̃ː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#blɑ̃# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#blɑ̃#

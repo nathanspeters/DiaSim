@@ -1,0 +1,21 @@
+Derivation file for run 'FlexTest'; etymon number :261:
+#fˈiːlum# >>> *#fil# ( GOLD : #fil#) :
+f ˈiː l u m 
+*#fˈiːlʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#fˈilʊm# | 57 : [+syl,+long] > [-long,-splng] 
+*#fˈilom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#fˈilo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#fˈilo#
+*#fˈiːlo# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#fˈiːlo#
+Middle Gallo-Roman stage form : *#fˈiːlo#
+*#fˈiːlə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#fˈiːlə̯# | 269 : ə > ə̯ 
+*#fˈiːl# | 294 : ə̯ > ∅ 
+Later Gallo-Roman stage form : *#fˈiːl#
+*#fˈil# | 452 : [+syl] > [-long,-splng] 
+Old French I stage form : *#fˈil#
+Old French II stage form : *#fˈil#
+Middle French stage form : *#fˈil#
+*#fil# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : *#fil#

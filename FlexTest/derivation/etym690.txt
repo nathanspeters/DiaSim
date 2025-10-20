@@ -1,0 +1,32 @@
+Derivation file for run 'FlexTest'; etymon number :690:
+#mˈen̪sem# >>> *#mwa# ( GOLD : #mwa#) :
+m ˈe n̪ s e m 
+*#mˈeːn̪sem# | 11 : [+syl] > [+long] / __ n̪ s ( [-syl] )* [-stres]
+*#mˈeːsem# | 12 : n̪ > ∅ / [+syl,+long] __ s
+*#mˈeːsɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#mˈesɛm# | 57 : [+syl,+long] > [-long,-splng] 
+*#mˈesɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#mˈesɛ#
+*#mˈeːsɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#mˈeːsɛ#
+*#mˈeːzɛ# | 133 : [+cont,-son] > [+voi] / [-cons] __ [+syl]
+Middle Gallo-Roman stage form : *#mˈeːzɛ#
+*#mˈeːzə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#mˈeːzə̯# | 269 : ə > ə̯ 
+*#mˈeːz# | 294 : ə̯ > ∅ 
+*#mˈejz# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+Later Gallo-Roman stage form : *#mˈejz#
+*#mˈejs# | 448 : [-son] > [-voi] / __ #
+*#mˈojs# | 515 : ˈe > ˈo / [+lab,+voi] __ j
+Old French I stage form : *#mˈojs#
+*#mˈujs# | 562 : [+round,+tense,+back] > [+hi] 
+*#mˈuɛ̯s# | 613 : j > ɛ̯ / [+syl,+back,+round] __ 
+*#mwˈɛs# | 614 : {u ɛ̯;ˌu ɛ̯;ˈu ɛ̯;ɔ ɛ̯;ˌɔ ɛ̯;ˈɔ ɛ̯} > {w ɛ;w ˌɛ;w ˈɛ;w ɛ;w ˌɛ;w ˈɛ} 
+*#mwˈɛːs# | 626 : [+prim] > [+long] / __ s #
+Old French II stage form : *#mwˈɛːs#
+Middle French stage form : *#mwˈɛːs#
+*#mwˈɛː# | 718 : [-son] > ∅ / __ #
+*#mwɛː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#mwɛ# | 738 : [+syl,+long] > [-long,-splng] 
+*#mwa# | 743 : ɛ > a / w __ 
+Final form : *#mwa#

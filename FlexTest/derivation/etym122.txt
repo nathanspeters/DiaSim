@@ -1,0 +1,32 @@
+Derivation file for run 'FlexTest'; etymon number :122:
+#bˌerbˈiːkem# >>> *#bɛʁbi# ( GOLD : #bʁəbi#) :
+b ˌe r b ˈiː k e m 
+*#bˌɛrbˈiːkɛm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#bˌɛrbˈikɛm# | 57 : [+syl,+long] > [-long,-splng] 
+*#bˌɛrbˈikɛ# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+*#bˌɛrbˈikʲɛ# | 78 : [+hi,+back,-cont] > [+front] / __ [+cont,-lo,+front]
+*#bˌɛrbˈicɛ# | 79 : [+back,+front] > [-back] 
+Late Latin stage form : *#bˌɛrbˈicɛ#
+*#bˌɛrbˈiːcɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#bˌɛrbˈiːcɛ#
+*#bˌɛrbˈiːt͡sʲɛ# | 176 : {c;ɟ} > {t͡sʲ;d͡ʒ} 
+Middle Gallo-Roman stage form : *#bˌɛrbˈiːt͡sʲɛ#
+*#bˌɛrbˈiːt͡sʲə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#bˌɛrbˈiːt͡sʲə̯# | 269 : ə > ə̯ 
+*#bˌɛrbˈiːt͡sʲ# | 294 : ə̯ > ∅ 
+*#bˌɨrbˈiːt͡sʲ# | 420 : ˌɛ > ˌɨ / __ [+cor,-nas,+cont] [+cons,-nas]
+*#bˌɛrbˈiːt͡sʲ# | 426 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
+Later Gallo-Roman stage form : *#bˌɛrbˈiːt͡sʲ#
+*#bˌɛrbˈit͡sʲ# | 452 : [+syl] > [-long,-splng] 
+Old French I stage form : *#bˌɛrbˈit͡sʲ#
+*#bˌɛrbˈisʲ# | 627 : [+delrel] > [+cont,0delrel] 
+Old French II stage form : *#bˌɛrbˈisʲ#
+*#bˌɛrbˈis# | 657 : [+ant,+front] > [-front,-hi] 
+Middle French stage form : *#bˌɛrbˈis#
+*#bˌɛɹbˈis# | 712 : r > ɹ / [-cons] __ [+cons]
+*#bˌɛɹbˈi# | 718 : [-son] > ∅ / __ #
+*#bˌɛrbˈi# | 733 : ɹ > r 
+*#bˌɛʀbˈi# | 735 : r > ʀ 
+*#bɛʀbi# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#bɛʁbi# | 744 : ʀ > ʁ 
+Final form : *#bɛʁbi#

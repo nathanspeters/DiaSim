@@ -1,0 +1,41 @@
+Derivation file for run 'FlexTest'; etymon number :1319:
+#wˌerbˈeːn̪ae̯# >>> *#vɛʁbwɛ̃# ( GOLD : #vɛʁvɛn̪#) :
+w ˌe r b ˈeː n̪ a e̯ 
+*#wˌerbˈeːn̪ɑe̯# | 2 : [+lo] > [-front,+back] 
+*#wˌerbˈeːn̪ae̯# | 3 : [+lo] > [+front,-back] / __ e̯
+*#ɣʷˌerbˈeːn̪ae̯# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#ɣʷˌɛrbˈeːn̪ae̯# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#βʷˌɛrbˈeːn̪ae̯# | 50 : ɣʷ > βʷ 
+*#βʷˌɛrbˈen̪ae̯# | 57 : [+syl,+long] > [-long,-splng] 
+*#βʷˌɛrbˈen̪ɛ# | 58 : {a e̯;ˌa e̯;ˈa e̯} > {ɛ;ˌɛ;ˈɛ} 
+Late Latin stage form : *#βʷˌɛrbˈen̪ɛ#
+*#βʷˌɛrbˈeːn̪ɛ# | 107 : [+prim] > [+long] / __ [+cons] [-cons]
+Early Gallo-Roman stage form : *#βʷˌɛrbˈeːn̪ɛ#
+*#βˌɛrbˈeːn̪ɛ# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+Middle Gallo-Roman stage form : *#βˌɛrbˈeːn̪ɛ#
+*#βˌɛrbˈeːn̪ə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#βˌɛrbˈeːn̪ə̯# | 269 : ə > ə̯ 
+*#βˌɛrbˈeːn̪# | 294 : ə̯ > ∅ 
+*#βˌɛrbˈejn̪# | 410 : {ˈaː;ˈeː;ˈoː;ˈɛː} > {ˈa e̯;ˈe j;ˈo w;ˈi e̯} 
+*#βˌɨrbˈejn̪# | 420 : ˌɛ > ˌɨ / __ [+cor,-nas,+cont] [+cons,-nas]
+*#βˌɛrbˈejn̪# | 426 : {ˌɨ;ˌɯ} > {ˌɛ;ˌɔ} 
+*#vˌɛrbˈejn̪# | 437 : β > v 
+Later Gallo-Roman stage form : *#vˌɛrbˈejn̪#
+*#vˌɛrbˈojn̪# | 515 : ˈe > ˈo / [+lab,+voi] __ j
+Old French I stage form : *#vˌɛrbˈojn̪#
+*#vˌɛrbˈujn̪# | 562 : [+round,+tense,+back] > [+hi] 
+*#vˌɛrbˈuj̃n̪# | 607 : j > j̃ / __ [+nas,+cons]
+*#vˌɛrbˈũj̃n̪# | 608 : [+syl,-front] > [+nas] / __ [+nas,-syl]
+*#vˌɛrbwˈĩn̪# | 610 : {ũ j̃;ˌũ j̃;ˈũ j̃} > {w ĩ;w ˌĩ;w ˈĩ} 
+Old French II stage form : *#vˌɛrbwˈĩn̪#
+*#vˌɛrbwˈẽn̪# | 648 : [+front,+nas,+syl] > [-hi] / w __ 
+*#vˌɛrbwˈɛ̃n̪# | 662 : [+front,-round,+syl,-lo] > [-hi,-tense,-cons,-lat,+cont,0delrel] / w __ 
+*#vˌɛrbwˈɛ̃ː# | 664 : [+nas,+syl] [+nas,+cons] > [+long] ∅/ __ #
+Middle French stage form : *#vˌɛrbwˈɛ̃ː#
+*#vˌɛɹbwˈɛ̃ː# | 712 : r > ɹ / [-cons] __ [+cons]
+*#vˌɛrbwˈɛ̃ː# | 733 : ɹ > r 
+*#vˌɛʀbwˈɛ̃ː# | 735 : r > ʀ 
+*#vɛʀbwɛ̃ː# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#vɛʀbwɛ̃# | 738 : [+syl,+long] > [-long,-splng] 
+*#vɛʁbwɛ̃# | 744 : ʀ > ʁ 
+Final form : *#vɛʁbwɛ̃#

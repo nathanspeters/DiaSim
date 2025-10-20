@@ -1,0 +1,30 @@
+Derivation file for run 'FlexTest'; etymon number :1063:
+#sˈɑlwum# >>> *#sof# ( GOLD : #sof#) :
+s ˈɑ l w u m 
+*#sˈɑlɣʷum# | 6 : {j;w} > {ʝ;ɣʷ} / __ [+syl]
+*#sˈɑlɣʷʊm# | 15 : [+syl,-lo,-long] > [-tense,-cons,-lat,+cont,0delrel] 
+*#sˈɑɫɣʷʊm# | 28 : l > ɫ / __ [+cons,-lat]
+*#sˈɑɫβʷʊm# | 50 : ɣʷ > βʷ 
+*#sˈɑɫβʷom# | 67 : [+hi,-tense] > [-hi,+tense,-cons,-lat,+cont,0delrel] 
+*#sˈɑɫβʷo# | 72 : [+nas,+cons] > ∅ / [-stres] __ #
+Late Latin stage form : *#sˈɑɫβʷo#
+Early Gallo-Roman stage form : *#sˈɑɫβʷo#
+*#sˈɑɫβo# | 154 : {βʷ;ɸʷ} > {β;ɸ} 
+*#sˈaɫβo# | 193 : [+lo] > [+front,-back] 
+Middle Gallo-Roman stage form : *#sˈaɫβo#
+*#sˈaɫβə# | 262 : [-stres,-lo,+syl] > ə / __ #
+*#sˈaɫβə̯# | 269 : ə > ə̯ 
+*#sˈaɫβ# | 294 : ə̯ > ∅ 
+*#sˈaɫv# | 437 : β > v 
+Later Gallo-Roman stage form : *#sˈaɫv#
+*#sˈaɫf# | 448 : [-son] > [-voi] / __ #
+Old French I stage form : *#sˈaɫf#
+*#sˈawf# | 574 : [+lat,+back] > w 
+Old French II stage form : *#sˈawf#
+*#sˈoːf# | 654 : {ˌa w;ˈa w} > {ˌoː;ˈoː} 
+Middle French stage form : *#sˈoːf#
+*#sˈoːfə̯# | 716 : ∅ > ə̯ / f __ #
+*#sˈoːf# | 720 : ə̯ > ∅ 
+*#soːf# | 736 : [+stres] > [-stres,-prim,+syl,+son,0delrel] 
+*#sof# | 738 : [+syl,+long] > [-long,-splng] 
+Final form : *#sof#
